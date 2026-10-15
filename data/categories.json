@@ -87,6 +87,10 @@
   {
    "id": "illustration",
    "name": "Illustration"
+  },
+  {
+   "id": "asmr",
+   "name": "ASMR"
   }
  ],
  "aliases": {
@@ -152,6 +156,9 @@
   ],
   "Pets": [
    "animals"
+  ],
+  "ASMR": [
+   "asmr"
   ]
  }
 }

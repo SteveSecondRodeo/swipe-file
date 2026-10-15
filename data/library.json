@@ -1,121 +1,5066 @@
 {
- "generated": "2026-10-15T09:26:22+00:00",
+ "generated": "2026-10-15T13:25:15+00:00",
  "categories": [
   {
    "id": "aesthetic",
    "name": "Aesthetic",
-   "count": 47
+   "count": 108
   },
   {
    "id": "dancing",
    "name": "Dancing",
-   "count": 0
+   "count": 2
   },
   {
    "id": "news",
    "name": "News",
-   "count": 0
+   "count": 8
   },
   {
    "id": "food",
    "name": "Food",
-   "count": 39
+   "count": 100
   },
   {
    "id": "engagement",
    "name": "Engagement",
-   "count": 15
+   "count": 34
   },
   {
    "id": "lifestyle",
    "name": "Lifestyle",
-   "count": 24
+   "count": 46
   },
   {
    "id": "clothing",
    "name": "Clothing",
-   "count": 6
+   "count": 29
   },
   {
    "id": "culture",
    "name": "Culture",
-   "count": 2
+   "count": 19
   },
   {
    "id": "animals",
    "name": "Animals",
-   "count": 1
+   "count": 5
   },
   {
    "id": "habits",
    "name": "Habits",
-   "count": 4
+   "count": 7
   },
   {
    "id": "trends",
    "name": "Trends",
-   "count": 8
+   "count": 29
   },
   {
    "id": "hooks",
    "name": "Hooks",
-   "count": 11
+   "count": 29
   },
   {
    "id": "pov",
    "name": "POV",
-   "count": 6
+   "count": 18
   },
   {
    "id": "ugc",
    "name": "UGC",
-   "count": 8
+   "count": 28
   },
   {
    "id": "reveal",
    "name": "Reveals",
-   "count": 11
+   "count": 23
   },
   {
    "id": "interactive",
    "name": "Interactive",
-   "count": 15
+   "count": 33
   },
   {
    "id": "humour",
    "name": "Humour",
-   "count": 23
+   "count": 72
   },
   {
    "id": "product",
    "name": "Product",
-   "count": 30
+   "count": 84
   },
   {
    "id": "deals",
    "name": "Deals & Promo",
-   "count": 3
+   "count": 5
   },
   {
    "id": "seamless",
    "name": "Seamless",
-   "count": 4
+   "count": 19
   },
   {
    "id": "typography",
    "name": "Typography",
-   "count": 15
+   "count": 37
   },
   {
    "id": "illustration",
    "name": "Illustration",
-   "count": 6
+   "count": 20
+  },
+  {
+   "id": "asmr",
+   "name": "ASMR",
+   "count": 10
   }
  ],
  "collections": [
-  "Always on"
+  "Always on",
+  "Instagram saves"
  ],
  "items": [
+  {
+   "id": "d4c8cebabd",
+   "path": "https://www.instagram.com/reel/DeNIyl6NckK/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Smoky venue atmosphere tease",
+   "description": "Slow, moody shots of a smoking brick chimney, skull and string lights set the mood for a venue. Bars and event spaces can open with detail shots like this to sell the vibe before showing the room.",
+   "categories": [
+    "aesthetic",
+    "lifestyle"
+   ],
+   "tags": [
+    "b-roll",
+    "atmosphere",
+    "venue",
+    "detail-shots"
+   ],
+   "thumb": "thumbs/ig_DeNIyl6NckK.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DeNIyl6NckK/",
+   "creator": "urbancowboy_nashville"
+  },
+  {
+   "id": "1f4f462834",
+   "path": "https://www.instagram.com/reel/DeGxmuYs1r5/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Plate floats over the restaurant",
+   "description": "A dish is cut out and held over a wide shot of the venue with a simple question as the headline. Works for any restaurant pushing a new menu.",
+   "categories": [
+    "food",
+    "hooks"
+   ],
+   "tags": [
+    "cutout",
+    "text-overlay",
+    "menu-launch",
+    "venue-shot"
+   ],
+   "thumb": "thumbs/ig_DeGxmuYs1r5.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DeGxmuYs1r5/",
+   "creator": "theoystershed"
+  },
+  {
+   "id": "145dd42a20",
+   "path": "https://www.instagram.com/reel/DeCgqQDhe3w/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Tools of the trade flat lay",
+   "description": "Kitchen tools shot top-down one at a time on a steel surface. Any restaurant or maker brand can show the kit behind the product as a moody, rhythmic montage.",
+   "categories": [
+    "aesthetic",
+    "product",
+    "asmr"
+   ],
+   "tags": [
+    "top-down",
+    "flat-lay",
+    "sound-design",
+    "stop-motion",
+    "minimal"
+   ],
+   "thumb": "thumbs/ig_DeCgqQDhe3w.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DeCgqQDhe3w/",
+   "creator": "dumboparis"
+  },
+  {
+   "id": "0ed53573d1",
+   "path": "https://www.instagram.com/reel/DdHP6BohR0C/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "AI tool live demo",
+   "description": "A screen recording shows an AI agent building a designed explainer poster from scratch, with subtitles reacting to the result. Tech or software brands can film a real task start to finish to prove what the product does.",
+   "categories": [
+    "news",
+    "product"
+   ],
+   "tags": [
+    "screen-recording",
+    "captions",
+    "talking-head",
+    "demo"
+   ],
+   "thumb": "thumbs/ig_DdHP6BohR0C.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DdHP6BohR0C/",
+   "creator": "youraiauntie"
+  },
+  {
+   "id": "91fc1938ec",
+   "path": "https://www.instagram.com/reel/DdFgUHro89x/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Deadpan street skit",
+   "description": "Two guys and a motorbike outside a shop in a short, dry comedic bit shot on a phone. Hard to tell the full joke from the cover, but the format is low-budget sketch comedy a store could film on its own pavement.",
+   "categories": [
+    "humour",
+    "ugc"
+   ],
+   "tags": [
+    "skit",
+    "handheld",
+    "street",
+    "deadpan"
+   ],
+   "thumb": "thumbs/ig_DdFgUHro89x.jpg",
+   "w": 359,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DdFgUHro89x/",
+   "creator": "max4cracks"
+  },
+  {
+   "id": "0ee963e2ae",
+   "path": "https://www.instagram.com/reel/Dd9Nmx4OHUc/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Mock sports commentary skit",
+   "description": "Someone reading on a park bench gets scored and narrated like a live sports final, complete with broadcast graphics. Any everyday habit tied to a brand can be treated as an Olympic event.",
+   "categories": [
+    "humour",
+    "trends",
+    "culture"
+   ],
+   "tags": [
+    "skit",
+    "broadcast-graphics",
+    "parody",
+    "lower-thirds",
+    "satire"
+   ],
+   "thumb": "thumbs/ig_Dd9Nmx4OHUc.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dd9Nmx4OHUc/",
+   "creator": "georgeeerie"
+  },
+  {
+   "id": "ec1f8fb788",
+   "path": "https://www.instagram.com/reel/DczJSkFzQHG/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Find the hidden character puzzle",
+   "description": "A busy illustrated crowd scene challenges viewers to spot one hidden character and comment where it is. A brand could hide its mascot or product in a local scene.",
+   "categories": [
+    "interactive",
+    "engagement",
+    "illustration"
+   ],
+   "tags": [
+    "seek-and-find",
+    "comment-bait",
+    "illustration",
+    "puzzle"
+   ],
+   "thumb": "thumbs/ig_DczJSkFzQHG.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DczJSkFzQHG/",
+   "creator": "seekittydaily"
+  },
+  {
+   "id": "718e4697e9",
+   "path": "https://www.instagram.com/reel/DczIcigzAjL/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Real life not AI",
+   "description": "Casual handheld footage with a cheeky caption pushing back on AI content. Brands can lean into raw, clearly human footage as a selling point.",
+   "categories": [
+    "ugc",
+    "humour",
+    "trends"
+   ],
+   "tags": [
+    "handheld",
+    "text-overlay",
+    "lo-fi",
+    "authentic"
+   ],
+   "thumb": "thumbs/ig_DczIcigzAjL.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DczIcigzAjL/",
+   "creator": "saltsocialco"
+  },
+  {
+   "id": "7f5ab399b1",
+   "path": "https://www.instagram.com/reel/Dcyq9iSOG8A/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Flat lay skincare lab",
+   "description": "A serum bottle sits centred on a clean surface surrounded by swatches, droppers and petri dishes in a lab-style flat lay. Beauty and wellness brands can stage product with its textures around it.",
+   "categories": [
+    "product",
+    "aesthetic"
+   ],
+   "tags": [
+    "flat-lay",
+    "top-down",
+    "product-styling",
+    "swatch",
+    "stop-motion"
+   ],
+   "thumb": "thumbs/ig_Dcyq9iSOG8A.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dcyq9iSOG8A/",
+   "creator": "freen"
+  },
+  {
+   "id": "e52a63b057",
+   "path": "https://www.instagram.com/reel/Dcy3uSkAKlV/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Staff reenact a book cover",
+   "description": "Library staff act out a dramatic scene around a featured title to promote a themed month. Teams can use their own people and a bit of theatre to plug a product or event.",
+   "categories": [
+    "humour",
+    "culture",
+    "engagement"
+   ],
+   "tags": [
+    "staff-skit",
+    "acting",
+    "product-feature",
+    "office"
+   ],
+   "thumb": "thumbs/ig_Dcy3uSkAKlV.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dcy3uSkAKlV/",
+   "creator": "mvpubliclibrary"
+  },
+  {
+   "id": "7637b7c2ca",
+   "path": "https://www.instagram.com/reel/DcrH6N5gWNz/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Day in the life of the pet",
+   "description": "The cat gets a fake timestamped daily schedule with silly captions, like it robbed a bank. Pet or mascot accounts can run this as a recurring series.",
+   "categories": [
+    "animals",
+    "humour",
+    "pov"
+   ],
+   "tags": [
+    "day-in-the-life",
+    "text-overlay",
+    "timestamps",
+    "pet-content"
+   ],
+   "thumb": "thumbs/ig_DcrH6N5gWNz.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcrH6N5gWNz/",
+   "creator": "heyitsgingerandpepper"
+  },
+  {
+   "id": "0b73c2b375",
+   "path": "https://www.instagram.com/reel/Dcp-7FoDobn/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Ask strangers if they're happy",
+   "description": "A simple street interview asking people one big question, with a longer doc to follow. Brands can run a one-question vox pop that ties back to their purpose.",
+   "categories": [
+    "culture",
+    "lifestyle",
+    "engagement"
+   ],
+   "tags": [
+    "street-interview",
+    "vox-pop",
+    "text-overlay",
+    "handheld"
+   ],
+   "thumb": "thumbs/ig_Dcp-7FoDobn.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dcp-7FoDobn/",
+   "creator": "areyouhappyofficial"
+  },
+  {
+   "id": "59908e1e37",
+   "path": "https://www.instagram.com/reel/DclzF6BRdmr/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Ingredient close-up craft reel",
+   "description": "Opens on extreme macro sushi rice before moving to hand seasoning and truffle shaving. Restaurants can show the small prep steps that justify the price.",
+   "categories": [
+    "food",
+    "aesthetic",
+    "asmr"
+   ],
+   "tags": [
+    "macro",
+    "process",
+    "chef-hands",
+    "texture",
+    "slow-motion"
+   ],
+   "thumb": "thumbs/ig_DclzF6BRdmr.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DclzF6BRdmr/",
+   "creator": "sumisushila"
+  },
+  {
+   "id": "8a1fb9589b",
+   "path": "https://www.instagram.com/reel/Dci2Os_EYNi/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Morning light bathroom styling",
+   "description": "Slow shots of bathroom products and towels in warm shadow light, styled like an interiors shoot. Homeware brands can sell everyday items through light and mood rather than price.",
+   "categories": [
+    "aesthetic",
+    "product"
+   ],
+   "tags": [
+    "product-styling",
+    "natural-light",
+    "b-roll",
+    "homeware"
+   ],
+   "thumb": "thumbs/ig_Dci2Os_EYNi.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dci2Os_EYNi/",
+   "creator": "woolworths_sa"
+  },
+  {
+   "id": "a3e7c0cdc8",
+   "path": "https://www.instagram.com/reel/DcdJ9U_Iqz6/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Absurd handmade set sketch",
+   "description": "A farmer milks a papier mache mountain in front of a painted backdrop, playing a tall tale as a soft drink ad. Brands can use crafty, obviously fake sets to make a silly origin story feel charming.",
+   "categories": [
+    "humour",
+    "product"
+   ],
+   "tags": [
+    "practical-set",
+    "skit",
+    "handmade",
+    "absurd"
+   ],
+   "thumb": "thumbs/ig_DcdJ9U_Iqz6.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcdJ9U_Iqz6/",
+   "creator": "frank___innit"
+  },
+  {
+   "id": "76cac831f7",
+   "path": "https://www.instagram.com/reel/Dcd8hxkITZh/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Receipt print surreal ad",
+   "description": "A receipt prints out of a slot in the middle of a landscape while an egg-sandwich bird flies past. A playful mixed-media way for a food brand to show its menu as a till slip.",
+   "categories": [
+    "illustration",
+    "food",
+    "product"
+   ],
+   "tags": [
+    "collage",
+    "surreal",
+    "mixed-media",
+    "receipt",
+    "animation"
+   ],
+   "thumb": "thumbs/ig_Dcd8hxkITZh.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dcd8hxkITZh/",
+   "creator": "omelegg"
+  },
+  {
+   "id": "40edac6f50",
+   "path": "https://www.instagram.com/reel/Dccd0DyyTZk/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Spot the boss challenge",
+   "description": "Staff go about their day and viewers are asked to guess which one runs the place. Any office or store team can turn this into a guessing game for the comments.",
+   "categories": [
+    "interactive",
+    "engagement",
+    "humour"
+   ],
+   "tags": [
+    "guessing-game",
+    "office",
+    "team",
+    "comment-bait"
+   ],
+   "thumb": "thumbs/ig_Dccd0DyyTZk.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dccd0DyyTZk/",
+   "creator": "attorneyellin"
+  },
+  {
+   "id": "a4ee8acf77",
+   "path": "https://www.instagram.com/reel/Dc_2hfJhG5q/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Empty room glow-up joke",
+   "description": "Sets up a decor reveal with a stereotype on screen, then delivers a deliberately bare result for the laugh. Furniture and home brands can flip it into a real before and after.",
+   "categories": [
+    "humour",
+    "reveal",
+    "lifestyle"
+   ],
+   "tags": [
+    "text-overlay",
+    "subverted-expectation",
+    "before-after",
+    "interiors"
+   ],
+   "thumb": "thumbs/ig_Dc_2hfJhG5q.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dc_2hfJhG5q/",
+   "creator": "sonnyacademia"
+  },
+  {
+   "id": "4c55a41949",
+   "path": "https://www.instagram.com/reel/DcYuVqhMbL2/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Paint stroke reveal message",
+   "description": "A brush paints red strokes over a wall, uncovering words of a message one by one. A simple handmade reveal for a brand line or offer.",
+   "categories": [
+    "typography",
+    "reveal",
+    "aesthetic"
+   ],
+   "tags": [
+    "paint-reveal",
+    "text-reveal",
+    "handmade",
+    "tactile"
+   ],
+   "thumb": "thumbs/ig_DcYuVqhMbL2.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcYuVqhMbL2/",
+   "creator": "omelegg"
+  },
+  {
+   "id": "c342739c85",
+   "path": "https://www.instagram.com/reel/DcYjVQSikK2/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Chef knife sharpening intro",
+   "description": "Cinematic close shots of a chef sharpening his knives in a dark kitchen. Restaurants can introduce their chefs with prep rituals instead of a straight interview.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "cinematic",
+    "chef",
+    "low-light",
+    "b-roll"
+   ],
+   "thumb": "thumbs/ig_DcYjVQSikK2.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcYjVQSikK2/",
+   "creator": "lenotrecafekw"
+  },
+  {
+   "id": "872dc213cd",
+   "path": "https://www.instagram.com/reel/DcTLtK6Tw5B/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "One screen parkour puzzle",
+   "description": "Several clips are tiled into one vertical frame so a runner appears to jump from panel to panel. Sport or footwear brands can use the grid puzzle edit to show movement across one city block.",
+   "categories": [
+    "seamless",
+    "trends"
+   ],
+   "tags": [
+    "grid-layout",
+    "parkour",
+    "compositing",
+    "transition"
+   ],
+   "thumb": "thumbs/ig_DcTLtK6Tw5B.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcTLtK6Tw5B/",
+   "creator": "pkguywithglasses"
+  },
+  {
+   "id": "6eeab066cd",
+   "path": "https://www.instagram.com/reel/DcPQ_6ChZA4/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Product squeeze close-up",
+   "description": "Slow close-up of a spread being squeezed onto a breakfast bowl, with a question about what people would put it on first. Clean product hero shot with a comment prompt.",
+   "categories": [
+    "food",
+    "product"
+   ],
+   "tags": [
+    "product-pour",
+    "close-up",
+    "comment-bait",
+    "launch"
+   ],
+   "thumb": "thumbs/ig_DcPQ_6ChZA4.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcPQ_6ChZA4/",
+   "creator": "getdrizzy"
+  },
+  {
+   "id": "2bcc3f2143",
+   "path": "https://www.instagram.com/reel/DcOv_-tNbmh/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Kidnapped expert skit",
+   "description": "A POV sketch where an 'AI expert' is grabbed and driven off, joking that no job is safe. Brands can borrow the kidnapped expert setup to poke fun at their own industry.",
+   "categories": [
+    "pov",
+    "humour"
+   ],
+   "tags": [
+    "skit",
+    "text-overlay",
+    "car",
+    "pov"
+   ],
+   "thumb": "thumbs/ig_DcOv_-tNbmh.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcOv_-tNbmh/",
+   "creator": "callanfaulkner"
+  },
+  {
+   "id": "5b469ee4c6",
+   "path": "https://www.instagram.com/reel/DcMqhIlNxxq/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Farm harvest vlog",
+   "description": "Creator in a hat kneels in long grass showing off a small apple haul with chatty captions. Farm and fresh-produce brands can use this casual picking-day diary style.",
+   "categories": [
+    "lifestyle",
+    "ugc",
+    "food"
+   ],
+   "tags": [
+    "selfie-vlog",
+    "captions",
+    "outdoors",
+    "harvest"
+   ],
+   "thumb": "thumbs/ig_DcMqhIlNxxq.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcMqhIlNxxq/",
+   "creator": "sonyabeecorporation"
+  },
+  {
+   "id": "3369a5e99d",
+   "path": "https://www.instagram.com/reel/DcMH6YvpLVc/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Mini barista body swap",
+   "description": "A barista's head is edited onto a tiny body as she carries a cake through a market, for a goofy shop-floor sketch. Cafes and bakeries can use the same split-body edit to make staff the joke.",
+   "categories": [
+    "humour",
+    "food"
+   ],
+   "tags": [
+    "split-screen",
+    "compositing",
+    "staff-content",
+    "comedy-edit"
+   ],
+   "thumb": "thumbs/ig_DcMH6YvpLVc.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcMH6YvpLVc/",
+   "creator": "cafebalance.co"
+  },
+  {
+   "id": "a319179257",
+   "path": "https://www.instagram.com/reel/DcJbcEBO3o9/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Leaving my partner in a pose",
+   "description": "Creator gets their partner into an awkward pose in public, then walks off to see how long they hold it. A brand could run it with staff or ambassadors at a landmark.",
+   "categories": [
+    "humour",
+    "trends",
+    "pov"
+   ],
+   "tags": [
+    "prank",
+    "text-overlay",
+    "public",
+    "couple-content"
+   ],
+   "thumb": "thumbs/ig_DcJbcEBO3o9.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcJbcEBO3o9/",
+   "creator": "bradmilison"
+  },
+  {
+   "id": "9dcfaf94e9",
+   "path": "https://www.instagram.com/reel/DcBllsXApuT/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Distracted by the shiny thing",
+   "description": "A playful film-style reel where the creator gets pulled toward a product on a picnic chair. Beauty and fragrance brands can make the product the scene-stealer in a little story.",
+   "categories": [
+    "product",
+    "aesthetic",
+    "ugc"
+   ],
+   "tags": [
+    "cinematic",
+    "influencer",
+    "product-placement",
+    "storytelling"
+   ],
+   "thumb": "thumbs/ig_DcBllsXApuT.jpg",
+   "w": 640,
+   "h": 480,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DcBllsXApuT/",
+   "creator": "aanishagurung_"
+  },
+  {
+   "id": "f08cfbc03b",
+   "path": "https://www.instagram.com/reel/Dc0vaoHvM_t/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Dessert mood close-ups",
+   "description": "Glossy macro shots of a chocolate raspberry cake with one word title on screen, part of a flavour-themed series. Food brands can run a recurring 'mood' series, one hero flavour per post.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "macro",
+    "slow-motion",
+    "series",
+    "title-card"
+   ],
+   "thumb": "thumbs/ig_Dc0vaoHvM_t.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dc0vaoHvM_t/",
+   "creator": "saltplate_st"
+  },
+  {
+   "id": "8a12d2ef6d",
+   "path": "https://www.instagram.com/reel/DbzoKD6o9D0/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Emoji hunt with the cat",
+   "description": "Pet reel that asks viewers to spot hidden emojis and comment what they found. Drives comments with a low-effort challenge.",
+   "categories": [
+    "animals",
+    "interactive",
+    "engagement"
+   ],
+   "tags": [
+    "seek-and-find",
+    "comment-bait",
+    "pet-content",
+    "emoji"
+   ],
+   "thumb": "thumbs/ig_DbzoKD6o9D0.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbzoKD6o9D0/",
+   "creator": "pepper_pink1"
+  },
+  {
+   "id": "193ac26bde",
+   "path": "https://www.instagram.com/reel/DbwiLsCSvWw/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Nosy pet camera POV",
+   "description": "Two cats peer into the camera from inside a bag, shot from the pet's point of view. Pet brands can copy the low angle peekaboo shot for easy reaction content.",
+   "categories": [
+    "animals",
+    "humour"
+   ],
+   "tags": [
+    "pov",
+    "pets",
+    "low-angle",
+    "phone-footage"
+   ],
+   "thumb": "thumbs/ig_DbwiLsCSvWw.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbwiLsCSvWw/",
+   "creator": "malaya.rae"
+  },
+  {
+   "id": "ca57d28171",
+   "path": "https://www.instagram.com/reel/DbtU1UaOjP8/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "BTS of a viral shot",
+   "description": "Shows the real setup behind a previous viral clip, with the original playing in a picture-in-picture box. Brands can follow a hit post with a how-we-made-it reveal.",
+   "categories": [
+    "reveal",
+    "ugc"
+   ],
+   "tags": [
+    "behind-the-scenes",
+    "picture-in-picture",
+    "practical-effects",
+    "sport"
+   ],
+   "thumb": "thumbs/ig_DbtU1UaOjP8.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbtU1UaOjP8/",
+   "creator": "primogolfapparel"
+  },
+  {
+   "id": "e6cab9cc83",
+   "path": "https://www.instagram.com/reel/DbqpMAcuDQs/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Lab specimen grid",
+   "description": "A tomato is sliced, dissected and shot in black and white across a nine-panel grid like a science study. A food brand can make an everyday ingredient look strange and new.",
+   "categories": [
+    "aesthetic",
+    "food",
+    "illustration"
+   ],
+   "tags": [
+    "grid-layout",
+    "black-and-white",
+    "macro",
+    "art-direction",
+    "split-screen"
+   ],
+   "thumb": "thumbs/ig_DbqpMAcuDQs.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbqpMAcuDQs/",
+   "creator": "yi.rop"
+  },
+  {
+   "id": "e36d034d5c",
+   "path": "https://www.instagram.com/reel/DbqhZHVRfV2/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Marketing stunt breakdown",
+   "description": "Green screen talking head over a viral clip, breaking down why a campaign worked. Brands or agencies can comment on trending marketing to show they know the space.",
+   "categories": [
+    "news",
+    "trends",
+    "culture"
+   ],
+   "tags": [
+    "green-screen",
+    "talking-head",
+    "commentary",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DbqhZHVRfV2.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbqhZHVRfV2/",
+   "creator": "directorofsocial"
+  },
+  {
+   "id": "5134756ad9",
+   "path": "https://www.instagram.com/reel/DbqEke7oewm/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Photo pops out of the frame",
+   "description": "Tutorial on an editing effect that makes a flat photo look 3D by having it pop out of the scene. Handy reference for an editor wanting a depth trick.",
+   "categories": [
+    "seamless",
+    "aesthetic"
+   ],
+   "tags": [
+    "tutorial",
+    "3d-effect",
+    "editing",
+    "vfx"
+   ],
+   "thumb": "thumbs/ig_DbqEke7oewm.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbqEke7oewm/",
+   "creator": "thetwofaced_"
+  },
+  {
+   "id": "0a00341051",
+   "path": "https://www.instagram.com/reel/Dbp5AIjugf5/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Final ad versus homemade version",
+   "description": "Split screen compares a polished ad with a cheap homemade recreation, shot for shot. Behind-the-scenes idea that gives a campaign a second life.",
+   "categories": [
+    "humour",
+    "culture"
+   ],
+   "tags": [
+    "split-screen",
+    "side-by-side",
+    "behind-the-scenes",
+    "parody"
+   ],
+   "thumb": "thumbs/ig_Dbp5AIjugf5.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dbp5AIjugf5/",
+   "creator": "goshdamnduo"
+  },
+  {
+   "id": "fb41e66974",
+   "path": "https://www.instagram.com/reel/DbmF8U9RFjF/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Find the ducks eye test",
+   "description": "Viewers are challenged to find eight ducks in a farm scene, which turns out to be the image from an eye-test machine. Fun way for an expert brand to sneak in an explainer.",
+   "categories": [
+    "interactive",
+    "engagement",
+    "hooks"
+   ],
+   "tags": [
+    "seek-and-find",
+    "challenge",
+    "explainer",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DbmF8U9RFjF.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbmF8U9RFjF/",
+   "creator": "drwynndoe"
+  },
+  {
+   "id": "4106962ff3",
+   "path": "https://www.instagram.com/reel/DblMCA0g4AW/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bag in the wild",
+   "description": "A leather handbag is posed on an old urn among autumn leaves and berries, part of a ride through city locations. Accessory brands can shoot hero products in unexpected outdoor settings.",
+   "categories": [
+    "product",
+    "clothing",
+    "aesthetic"
+   ],
+   "tags": [
+    "product-styling",
+    "on-location",
+    "nature",
+    "still-life"
+   ],
+   "thumb": "thumbs/ig_DblMCA0g4AW.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DblMCA0g4AW/",
+   "creator": "grebellaofficial"
+  },
+  {
+   "id": "2943467a97",
+   "path": "https://www.instagram.com/reel/DbkMIG9BCEM/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Collage season teaser",
+   "description": "Layered paper prints of food and fruit shot like a scrapbook to tease a new season. Works for any 'coming soon' announcement.",
+   "categories": [
+    "aesthetic",
+    "typography"
+   ],
+   "tags": [
+    "collage",
+    "teaser",
+    "print-texture",
+    "coming-soon"
+   ],
+   "thumb": "thumbs/ig_DbkMIG9BCEM.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbkMIG9BCEM/",
+   "creator": "talker.my"
+  },
+  {
+   "id": "0f4282a9f2",
+   "path": "https://www.instagram.com/reel/DbgAa8pNhYg/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Walk-and-talk in nature",
+   "description": "A creator walks toward camera outdoors in a dress, talking or reacting. From the cover alone the hook isn't clear, so treat it as a simple outdoor walk-to-camera format.",
+   "categories": [
+    "lifestyle",
+    "clothing"
+   ],
+   "tags": [
+    "walk-to-camera",
+    "outdoor",
+    "talking-head",
+    "handheld"
+   ],
+   "thumb": "thumbs/ig_DbgAa8pNhYg.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbgAa8pNhYg/",
+   "creator": "itscarlystanton"
+  },
+  {
+   "id": "b1cc0d516b",
+   "path": "https://www.instagram.com/reel/DbeIuReBk_U/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Wait it can do what",
+   "description": "A surprised talking-head hook about a new tool feature, then a quick demo. Tech and app brands can lead with the reaction before the how-to.",
+   "categories": [
+    "hooks",
+    "product",
+    "ugc"
+   ],
+   "tags": [
+    "talking-head",
+    "text-overlay",
+    "reaction",
+    "tutorial"
+   ],
+   "thumb": "thumbs/ig_DbeIuReBk_U.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbeIuReBk_U/",
+   "creator": "emma.scrapes"
+  },
+  {
+   "id": "bfc1ceae24",
+   "path": "https://www.instagram.com/reel/DbdOvM9sCK7/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Tap a bee for your date idea",
+   "description": "Bees bounce around the screen and viewers pause on one to get a random date idea. A brand can swap the bees for its own icons and ideas.",
+   "categories": [
+    "interactive",
+    "engagement"
+   ],
+   "tags": [
+    "tap-to-stop",
+    "randomizer",
+    "text-overlay",
+    "emoji"
+   ],
+   "thumb": "thumbs/ig_DbdOvM9sCK7.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbdOvM9sCK7/",
+   "creator": "cheesiq"
+  },
+  {
+   "id": "e73b807e1d",
+   "path": "https://www.instagram.com/reel/DbcoFEmS7ko/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Collage head explosion animation",
+   "description": "A cut-out portrait bursts with hand-drawn doodles, flames and type in frame-by-frame animation. Brands can animate over a founder or customer photo to show what's going on in their head.",
+   "categories": [
+    "illustration",
+    "typography"
+   ],
+   "tags": [
+    "frame-by-frame",
+    "collage",
+    "motion-graphics",
+    "hand-drawn"
+   ],
+   "thumb": "thumbs/ig_DbcoFEmS7ko.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbcoFEmS7ko/",
+   "creator": "lalamay.art"
+  },
+  {
+   "id": "a64d608db7",
+   "path": "https://www.instagram.com/reel/DbbAHJsN33w/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Cut-out outfit tray collage",
+   "description": "A creator's face and outfit pieces are arranged as stickers on a tray with strawberries and stars. Fashion brands can build looks as playful mixed media collages.",
+   "categories": [
+    "clothing",
+    "illustration"
+   ],
+   "tags": [
+    "collage",
+    "stop-motion",
+    "mixed-media",
+    "stickers"
+   ],
+   "thumb": "thumbs/ig_DbbAHJsN33w.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbbAHJsN33w/",
+   "creator": "rafatsart"
+  },
+  {
+   "id": "4dfb9dc7a9",
+   "path": "https://www.instagram.com/reel/DbapGl3gv_a/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Vintage interactive ad demo",
+   "description": "Hands work a moving part on an old cider ad card to show how it plays. Heritage brands can dig up archive pieces and show them in action.",
+   "categories": [
+    "culture",
+    "interactive",
+    "product"
+   ],
+   "tags": [
+    "archive",
+    "hands-only",
+    "vintage",
+    "demo"
+   ],
+   "thumb": "thumbs/ig_DbapGl3gv_a.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbapGl3gv_a/",
+   "creator": "museumofcider"
+  },
+  {
+   "id": "3c9b647862",
+   "path": "https://www.instagram.com/reel/DbYORKwMqJz/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bag on the bed vignette",
+   "description": "A soft, filmic scene of a designer bag in a cosy bedroom with sound turned up. Fashion brands can let one product sit in a styled room and build mood with audio.",
+   "categories": [
+    "aesthetic",
+    "product",
+    "clothing"
+   ],
+   "tags": [
+    "cinematic",
+    "sound-design",
+    "still-life",
+    "influencer"
+   ],
+   "thumb": "thumbs/ig_DbYORKwMqJz.jpg",
+   "w": 640,
+   "h": 480,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbYORKwMqJz/",
+   "creator": "lara_bsmnn"
+  },
+  {
+   "id": "0a79f4ddfa",
+   "path": "https://www.instagram.com/reel/DbVqGKpssqL/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Overhead store floor dance",
+   "description": "Shot from above, a person moves through a sneaker store between display tables. Retailers can use a top-down angle to make their floor plan part of the choreography.",
+   "categories": [
+    "dancing",
+    "product"
+   ],
+   "tags": [
+    "top-down",
+    "in-store",
+    "drone-style",
+    "movement"
+   ],
+   "thumb": "thumbs/ig_DbVqGKpssqL.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbVqGKpssqL/",
+   "creator": "scout_scout"
+  },
+  {
+   "id": "e78124d6bb",
+   "path": "https://www.instagram.com/reel/DbVm7sUMRyO/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "3D summer sound design",
+   "description": "A CGI vintage camera clicks over a sandy beach scene with starfish and shells, built around satisfying sound effects. Product brands can recreate their item in 3D with crisp foley.",
+   "categories": [
+    "illustration",
+    "asmr",
+    "aesthetic"
+   ],
+   "tags": [
+    "3d",
+    "cgi",
+    "sound-design",
+    "sfx",
+    "summer"
+   ],
+   "thumb": "thumbs/ig_DbVm7sUMRyO.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbVm7sUMRyO/",
+   "creator": "carla.batley"
+  },
+  {
+   "id": "35af973965",
+   "path": "https://www.instagram.com/reel/DbVYcBTtu6v/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Product card puzzle fit",
+   "description": "A model holds a product shot in front of herself so it lines up with what she's wearing. Fashion brands can show the flat lay and the fit at once.",
+   "categories": [
+    "clothing",
+    "product",
+    "seamless"
+   ],
+   "tags": [
+    "frame-match",
+    "product-card",
+    "transition",
+    "studio"
+   ],
+   "thumb": "thumbs/ig_DbVYcBTtu6v.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbVYcBTtu6v/",
+   "creator": "rilley.official"
+  },
+  {
+   "id": "a7008be8a5",
+   "path": "https://www.instagram.com/reel/DbV8LwXPDxt/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Creator thumbnail tool explainer",
+   "description": "Talking-head reel with a bold thumbnail-style cover of logos and a big promise, plus a comment keyword to get the resource. Useful for brands with a freebie or guide to give away.",
+   "categories": [
+    "hooks",
+    "engagement"
+   ],
+   "tags": [
+    "talking-head",
+    "comment-keyword",
+    "thumbnail-cover",
+    "bold-text"
+   ],
+   "thumb": "thumbs/ig_DbV8LwXPDxt.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbV8LwXPDxt/",
+   "creator": "nick_saraev"
+  },
+  {
+   "id": "d7ffd332da",
+   "path": "https://www.instagram.com/reel/DbV4QCJT5y3/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Scenic outfit details",
+   "description": "An outfit-of-the-day reel that opens on a calm lake sunset before getting into the clothes. Fashion brands can lead with scenery and save the outfit for the second beat.",
+   "categories": [
+    "clothing",
+    "aesthetic"
+   ],
+   "tags": [
+    "ootd",
+    "landscape",
+    "voiceover",
+    "b-roll"
+   ],
+   "thumb": "thumbs/ig_DbV4QCJT5y3.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbV4QCJT5y3/",
+   "creator": "calliemarchant"
+  },
+  {
+   "id": "281f8d3fc5",
+   "path": "https://www.instagram.com/reel/DbUILsrNbvJ/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Tray service product reveal",
+   "description": "Minimal top-down shot of hands placing drinks on a silver tray beside a service bell to launch new flavours. Clean format for menu additions.",
+   "categories": [
+    "food",
+    "aesthetic",
+    "news"
+   ],
+   "tags": [
+    "top-down",
+    "minimal",
+    "hands-only",
+    "menu-launch"
+   ],
+   "thumb": "thumbs/ig_DbUILsrNbvJ.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbUILsrNbvJ/",
+   "creator": "cafesocietymx"
+  },
+  {
+   "id": "917588157f",
+   "path": "https://www.instagram.com/reel/DbTCWHdS2zY/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Absurd how-to instructions",
+   "description": "A deadpan instruction video sends an invitation by dropping it into a toaster. Brands can present a quirky step-by-step for a ritual tied to their product.",
+   "categories": [
+    "humour",
+    "aesthetic",
+    "typography"
+   ],
+   "tags": [
+    "deadpan",
+    "how-to",
+    "studio",
+    "still-life",
+    "serif-title"
+   ],
+   "thumb": "thumbs/ig_DbTCWHdS2zY.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbTCWHdS2zY/",
+   "creator": "indiahicksstyle"
+  },
+  {
+   "id": "cd6485a434",
+   "path": "https://www.instagram.com/reel/DbSYQvDKo0D/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Poster held over real life",
+   "description": "A printed poster is held up in the street so the photo on it lines up with the real scene behind. Strong idea for print campaigns or event posters.",
+   "categories": [
+    "aesthetic",
+    "typography",
+    "seamless"
+   ],
+   "tags": [
+    "poster",
+    "frame-in-frame",
+    "alignment",
+    "street"
+   ],
+   "thumb": "thumbs/ig_DbSYQvDKo0D.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbSYQvDKo0D/",
+   "creator": "jesus_on_drugs"
+  },
+  {
+   "id": "a03b4b7ac8",
+   "path": "https://www.instagram.com/reel/DbSNmTbIrQb/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Numbered list countdown",
+   "description": "Creator talks to camera with a 1 to 40 list on screen and ticks off ad formats with example visuals popping up. Works for any brand with a big tips list, plus a comment keyword to get the full version.",
+   "categories": [
+    "engagement",
+    "hooks"
+   ],
+   "tags": [
+    "talking-head",
+    "listicle",
+    "text-overlay",
+    "comment-to-get",
+    "educational"
+   ],
+   "thumb": "thumbs/ig_DbSNmTbIrQb.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbSNmTbIrQb/",
+   "creator": "lgnelmes"
+  },
+  {
+   "id": "544b552acc",
+   "path": "https://www.instagram.com/reel/DbS6g5uuVg1/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Ingredient by ingredient dish build",
+   "description": "A flat peach on a white surface starts a top-down build of a seasonal tomato, peach and ricotta dish. Restaurants can introduce a new menu item one ingredient at a time.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "top-down",
+    "stop-motion",
+    "ingredients",
+    "menu-launch"
+   ],
+   "thumb": "thumbs/ig_DbS6g5uuVg1.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbS6g5uuVg1/",
+   "creator": "ester.odesa"
+  },
+  {
+   "id": "5763829455",
+   "path": "https://www.instagram.com/reel/DbNjNrjidfG/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Coffee and biscuit flat lay",
+   "description": "Moody top-down shot of a biscuit range with coffee to announce new flavours, asking which one people will try. Simple product launch format for retail.",
+   "categories": [
+    "food",
+    "product"
+   ],
+   "tags": [
+    "top-down",
+    "product-launch",
+    "moody",
+    "comment-bait"
+   ],
+   "thumb": "thumbs/ig_DbNjNrjidfG.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbNjNrjidfG/",
+   "creator": "checkers_sa"
+  },
+  {
+   "id": "e1b6be4951",
+   "path": "https://www.instagram.com/reel/DbNVf_KIsEU/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Overhead weekend coffee run",
+   "description": "Shot from above, a customer walks the street holding drinks and a pastry with a big grin. Coffee shops can use this bird's eye angle to sell the weekend treat mood.",
+   "categories": [
+    "food",
+    "lifestyle"
+   ],
+   "tags": [
+    "overhead",
+    "high-angle",
+    "customer",
+    "sunlight"
+   ],
+   "thumb": "thumbs/ig_DbNVf_KIsEU.jpg",
+   "w": 359,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbNVf_KIsEU/",
+   "creator": "batchfiftytwo"
+  },
+  {
+   "id": "9840b5c0f9",
+   "path": "https://www.instagram.com/reel/DbLTCfAjQt7/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Dessert-ify your coffee",
+   "description": "A torched crème brûlée topping on an iced coffee, shot close. Retailers can turn a home recipe into a slow, satisfying reveal.",
+   "categories": [
+    "food",
+    "asmr",
+    "product"
+   ],
+   "tags": [
+    "recipe",
+    "close-up",
+    "torch",
+    "asmr"
+   ],
+   "thumb": "thumbs/ig_DbLTCfAjQt7.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbLTCfAjQt7/",
+   "creator": "checkers_sa"
+  },
+  {
+   "id": "a43f012d2e",
+   "path": "https://www.instagram.com/reel/DbLML9cClN1/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Overhead braai spread",
+   "description": "Top-down table of boerewors, rolls and sides with a bold claim in the centre. Retailers can build a hero product flat lay around a local meal moment.",
+   "categories": [
+    "food",
+    "product",
+    "culture"
+   ],
+   "tags": [
+    "flat-lay",
+    "top-down",
+    "bold-type",
+    "south-africa",
+    "food-styling"
+   ],
+   "thumb": "thumbs/ig_DbLML9cClN1.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbLML9cClN1/",
+   "creator": "checkers_sa"
+  },
+  {
+   "id": "d9ec2a1048",
+   "path": "https://www.instagram.com/reel/DbK666yNdAH/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "What's on my mind typing",
+   "description": "A woman types at a laptop under an elegant 'what's on my mind' title, setting up a list of thoughts. Simple talking-to-camera opener brands can use for founder notes or opinion posts.",
+   "categories": [
+    "lifestyle",
+    "typography"
+   ],
+   "tags": [
+    "text-overlay",
+    "serif-type",
+    "desk",
+    "talking-head"
+   ],
+   "thumb": "thumbs/ig_DbK666yNdAH.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbK666yNdAH/",
+   "creator": "a.ivanchikova"
+  },
+  {
+   "id": "b22258d30c",
+   "path": "https://www.instagram.com/reel/DbITCq5ggut/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Office sticky note scavenger hunt",
+   "description": "The team sends a colleague around the office following sticky note clues for no real reason. Easy, cheap office prank format any brand with a team can run for behind-the-scenes content.",
+   "categories": [
+    "humour",
+    "engagement"
+   ],
+   "tags": [
+    "prank",
+    "office",
+    "text-overlay",
+    "handheld"
+   ],
+   "thumb": "thumbs/ig_DbITCq5ggut.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbITCq5ggut/",
+   "creator": "tfm.au"
+  },
+  {
+   "id": "41a85c28cb",
+   "path": "https://www.instagram.com/reel/DbI9OQqMqw8/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Connect the letters edit",
+   "description": "Tutorial for the trend where a word-search grid sits over a video and letters get linked up to spell a word. A brand could spell out a product name or slogan.",
+   "categories": [
+    "trends",
+    "typography"
+   ],
+   "tags": [
+    "tutorial",
+    "text-overlay",
+    "word-search",
+    "talking-head"
+   ],
+   "thumb": "thumbs/ig_DbI9OQqMqw8.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbI9OQqMqw8/",
+   "creator": "camilaatunoni"
+  },
+  {
+   "id": "d70947c5ad",
+   "path": "https://www.instagram.com/reel/DbHDCSjvdIQ/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Brand pitched me reaction",
+   "description": "Creator reacts to an unusual way a brand pitched her, with the brand's story shown behind her. Shows how creative outreach can earn free coverage.",
+   "categories": [
+    "ugc",
+    "culture"
+   ],
+   "tags": [
+    "reaction",
+    "green-screen",
+    "talking-head",
+    "creator-marketing"
+   ],
+   "thumb": "thumbs/ig_DbHDCSjvdIQ.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbHDCSjvdIQ/",
+   "creator": "directorofsocial"
+  },
+  {
+   "id": "5534887c0d",
+   "path": "https://www.instagram.com/reel/DbGnXCnRMrT/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Street corner phone call transition",
+   "description": "Fashion reel shot on a city street corner with the creator on the phone, using cuts and transitions between outfits. Good for retail partnerships with a location tie-in.",
+   "categories": [
+    "clothing",
+    "aesthetic",
+    "seamless"
+   ],
+   "tags": [
+    "transition",
+    "street-style",
+    "film-look",
+    "partnership"
+   ],
+   "thumb": "thumbs/ig_DbGnXCnRMrT.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbGnXCnRMrT/",
+   "creator": "chloecleroux"
+  },
+  {
+   "id": "b2d9afa047",
+   "path": "https://www.instagram.com/reel/DbGClZjihdu/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Moody slow-cook dinner",
+   "description": "Low candlelit shots of oxtail on mash with a bold dish title on screen. Grocery brands can shoot simple recipes like restaurant plates to sell the ingredients.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "low-light",
+    "recipe",
+    "title-card",
+    "cinematic"
+   ],
+   "thumb": "thumbs/ig_DbGClZjihdu.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbGClZjihdu/",
+   "creator": "checkers_sa"
+  },
+  {
+   "id": "9a80464fa0",
+   "path": "https://www.instagram.com/reel/DbBOGqNMYsd/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Branded ice drink lineup",
+   "description": "A cafe's menu drinks are shown top-down one after another, each with a logo letter stamped into the ice. Cafes can run a quick menu reel where a small branded detail ties every drink together.",
+   "categories": [
+    "food",
+    "product"
+   ],
+   "tags": [
+    "top-down",
+    "branded-ice",
+    "menu",
+    "macro"
+   ],
+   "thumb": "thumbs/ig_DbBOGqNMYsd.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbBOGqNMYsd/",
+   "creator": "postcard"
+  },
+  {
+   "id": "be2235751b",
+   "path": "https://www.instagram.com/reel/DbAjcDcoJ9R/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Cafe heist movie poster",
+   "description": "A cafe stages a mock getaway with a poster-style cover and a thief escaping with their takeaway. Food brands can spoof movie tropes with a 1 to 10 rating ask.",
+   "categories": [
+    "humour",
+    "food",
+    "engagement"
+   ],
+   "tags": [
+    "skit",
+    "movie-parody",
+    "poster-cover",
+    "cta-question"
+   ],
+   "thumb": "thumbs/ig_DbAjcDcoJ9R.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbAjcDcoJ9R/",
+   "creator": "kamalcafe_"
+  },
+  {
+   "id": "c1f118ca14",
+   "path": "https://www.instagram.com/reel/DbA2ZOSoVYz/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Festival gate vox pop",
+   "description": "Mic in hand at an event entrance, asking punters for their reactions. Event and music brands can capture quick crowd takes right on the day.",
+   "categories": [
+    "culture",
+    "engagement",
+    "ugc"
+   ],
+   "tags": [
+    "street-interview",
+    "vox-pop",
+    "handheld",
+    "event"
+   ],
+   "thumb": "thumbs/ig_DbA2ZOSoVYz.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DbA2ZOSoVYz/",
+   "creator": "plagu_musix"
+  },
+  {
+   "id": "f749f816ad",
+   "path": "https://www.instagram.com/reel/Db8XhDfo92w/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Setup then result reveal",
+   "description": "A creator shows her camera rig and desk setup with a countdown, then cuts to the polished final shot. Brands can show the scrappy setup first to make the finished product look better.",
+   "categories": [
+    "reveal",
+    "hooks"
+   ],
+   "tags": [
+    "behind-the-scenes",
+    "countdown",
+    "before-after",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_Db8XhDfo92w.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Db8XhDfo92w/",
+   "creator": "valentik.creator"
+  },
+  {
+   "id": "2119ae566f",
+   "path": "https://www.instagram.com/reel/Db6G5OSDyFM/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Close one eye illusion",
+   "description": "Top-down shot of a pencil that looks like it's going somewhere it isn't, with viewers told to close an eye. Any brand can borrow an optical trick to make people rewatch.",
+   "categories": [
+    "interactive",
+    "humour",
+    "hooks"
+   ],
+   "tags": [
+    "optical-illusion",
+    "top-down",
+    "text-overlay",
+    "rewatch"
+   ],
+   "thumb": "thumbs/ig_Db6G5OSDyFM.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Db6G5OSDyFM/",
+   "creator": "origamigames99"
+  },
+  {
+   "id": "a5704a61a5",
+   "path": "https://www.instagram.com/reel/Db25CeMK_XL/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Keep the blooper audio",
+   "description": "A florist posts a bouquet shoot with the raw, messy audio left in. Small businesses can show the behind the scenes struggle to feel more human.",
+   "categories": [
+    "humour",
+    "product",
+    "ugc"
+   ],
+   "tags": [
+    "original-audio",
+    "behind-the-scenes",
+    "blooper",
+    "handheld"
+   ],
+   "thumb": "thumbs/ig_Db25CeMK_XL.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Db25CeMK_XL/",
+   "creator": "flowers_prague"
+  },
+  {
+   "id": "a44d59af1c",
+   "path": "https://www.instagram.com/reel/Db0J21WI7c9/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Future subscription POV skit",
+   "description": "A POV skit where everyday stuff becomes a subscription you forgot to pay. Brands can borrow the absurd future setup to poke fun at their own category.",
+   "categories": [
+    "pov",
+    "humour",
+    "trends"
+   ],
+   "tags": [
+    "skit",
+    "text-overlay",
+    "pov",
+    "acting"
+   ],
+   "thumb": "thumbs/ig_Db0J21WI7c9.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Db0J21WI7c9/",
+   "creator": "shania_nyoni"
+  },
+  {
+   "id": "70e6012781",
+   "path": "https://www.instagram.com/reel/DaxrcYQoOny/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Inside the shopping bag POV",
+   "description": "Camera sits inside a paper bag looking up at the person unpacking it. Retail and fragrance brands can use this angle for a fresh unboxing.",
+   "categories": [
+    "pov",
+    "product",
+    "aesthetic"
+   ],
+   "tags": [
+    "unboxing",
+    "low-angle",
+    "influencer",
+    "creative-angle"
+   ],
+   "thumb": "thumbs/ig_DaxrcYQoOny.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaxrcYQoOny/",
+   "creator": "hannahemilywhite"
+  },
+  {
+   "id": "79ab87db74",
+   "path": "https://www.instagram.com/reel/DaxXYE-tRhT/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Unexpected twist outfit reel",
+   "description": "A fashion reel that sets up one look and pivots to a surprise. Clothing brands can build a styled shot that ends on a twist to keep people watching.",
+   "categories": [
+    "clothing",
+    "reveal",
+    "aesthetic"
+   ],
+   "tags": [
+    "styling",
+    "twist-ending",
+    "street-style",
+    "fashion"
+   ],
+   "thumb": "thumbs/ig_DaxXYE-tRhT.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaxXYE-tRhT/",
+   "creator": "_nikaputina"
+  },
+  {
+   "id": "f39799b5cb",
+   "path": "https://www.instagram.com/reel/DaxJy9Xurw-/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Premium rebrand concept",
+   "description": "A designer reimagines a big everyday brand as a luxury product with moody packshots. Agencies and brands can share concept work or 'what if' packaging.",
+   "categories": [
+    "product",
+    "aesthetic",
+    "typography"
+   ],
+   "tags": [
+    "packaging",
+    "rebrand",
+    "moody-lighting",
+    "3d-render"
+   ],
+   "thumb": "thumbs/ig_DaxJy9Xurw-.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaxJy9Xurw-/",
+   "creator": "the.voy.design"
+  },
+  {
+   "id": "7faa608545",
+   "path": "https://www.instagram.com/reel/Dax1JYUNjO3/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Toy box GRWM",
+   "description": "A creator gets ready as if she were a doll toy, with a hand stepping in to pose her. Fashion brands can frame outfits as collectible toy packaging.",
+   "categories": [
+    "clothing",
+    "trends",
+    "humour"
+   ],
+   "tags": [
+    "grwm",
+    "pov",
+    "stop-motion",
+    "pose",
+    "playful"
+   ],
+   "thumb": "thumbs/ig_Dax1JYUNjO3.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dax1JYUNjO3/",
+   "creator": "slava.sdl"
+  },
+  {
+   "id": "3995be9659",
+   "path": "https://www.instagram.com/reel/DavZ_LQO4L9/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bead strand pick your favourite",
+   "description": "Rows of beaded strands fill the frame and viewers pick a favourite ahead of a drop. Jewellery or craft brands can use this to poll followers before launch.",
+   "categories": [
+    "product",
+    "engagement",
+    "aesthetic"
+   ],
+   "tags": [
+    "macro",
+    "colour-palette",
+    "poll",
+    "product-teaser"
+   ],
+   "thumb": "thumbs/ig_DavZ_LQO4L9.jpg",
+   "w": 361,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DavZ_LQO4L9/",
+   "creator": "wolfrumcompany"
+  },
+  {
+   "id": "2da1024974",
+   "path": "https://www.instagram.com/reel/DauwGVWsxN9/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Tap here interactive gag",
+   "description": "A plush turtle by a washing machine asks viewers to put a finger on screen to help. Brands can build a fake interactive prompt with a payoff.",
+   "categories": [
+    "interactive",
+    "humour",
+    "product"
+   ],
+   "tags": [
+    "fake-interactive",
+    "cgi",
+    "character",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DauwGVWsxN9.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DauwGVWsxN9/",
+   "creator": "jellycat"
+  },
+  {
+   "id": "3ddc6b15a0",
+   "path": "https://www.instagram.com/reel/Dau9TLmNj9v/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Phone-in-the-scene timelapse",
+   "description": "A phone propped in the sand filming a row of glasses at sunset, so you see the shot and the scene at once. Drinks and travel brands can use the frame-within-frame setup for a group moment.",
+   "categories": [
+    "aesthetic",
+    "lifestyle"
+   ],
+   "tags": [
+    "frame-within-frame",
+    "timelapse",
+    "sunset",
+    "group"
+   ],
+   "thumb": "thumbs/ig_Dau9TLmNj9v.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dau9TLmNj9v/",
+   "creator": "jessarose__"
+  },
+  {
+   "id": "f1379195e2",
+   "path": "https://www.instagram.com/reel/Dapp-HeAPrU/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Menu point and order",
+   "description": "Guest points at the menu and the dish appears, shot in moody restaurant light. Easy format to show off range at a venue.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "menu",
+    "moody",
+    "point-to-reveal",
+    "restaurant"
+   ],
+   "thumb": "thumbs/ig_Dapp-HeAPrU.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dapp-HeAPrU/",
+   "creator": "myata.dubai"
+  },
+  {
+   "id": "9d571d5e09",
+   "path": "https://www.instagram.com/reel/DapoK2zI-9o/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Drinks on a mirror",
+   "description": "Drinks held over a mirror against bright blue for a doubled, graphic look. Cafes and bars can shoot a summer menu with one reflective prop.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "mirror",
+    "colour-block",
+    "hands-only",
+    "reflection"
+   ],
+   "thumb": "thumbs/ig_DapoK2zI-9o.jpg",
+   "w": 359,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DapoK2zI-9o/",
+   "creator": "cult_vlc"
+  },
+  {
+   "id": "95d7ee9175",
+   "path": "https://www.instagram.com/reel/DapgTbciIRm/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "First visit cafe vibe",
+   "description": "Warm film-like shots of a couple sitting in a neighbourhood coffee shop, framed as what your first visit feels like. Cafes can sell the feeling of the space rather than the menu.",
+   "categories": [
+    "aesthetic",
+    "lifestyle"
+   ],
+   "tags": [
+    "film-look",
+    "interior",
+    "b-roll",
+    "storytelling"
+   ],
+   "thumb": "thumbs/ig_DapgTbciIRm.jpg",
+   "w": 426,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DapgTbciIRm/",
+   "creator": "coffeeroom_coogee"
+  },
+  {
+   "id": "602d6527a7",
+   "path": "https://www.instagram.com/reel/DaoWAsZg-Er/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Limited menu picnic shot",
+   "description": "Creator holds up the food against a lakeside backdrop with the drinks lined up behind. Clean UGC-style way to show a limited-time menu.",
+   "categories": [
+    "food",
+    "ugc",
+    "product"
+   ],
+   "tags": [
+    "ugc",
+    "outdoor",
+    "menu-launch",
+    "product-lineup"
+   ],
+   "thumb": "thumbs/ig_DaoWAsZg-Er.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaoWAsZg-Er/",
+   "creator": "ed.it.son"
+  },
+  {
+   "id": "894974f195",
+   "path": "https://www.instagram.com/reel/DaiN9-yMZeg/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Everyone thinks they're the expert",
+   "description": "A POV skit where a customer plays pizza maker until the real one arrives. Restaurants can turn 'amateur vs pro' into a light sketch that shows off their staff.",
+   "categories": [
+    "pov",
+    "humour",
+    "food"
+   ],
+   "tags": [
+    "skit",
+    "pov",
+    "pizza",
+    "staff-content"
+   ],
+   "thumb": "thumbs/ig_DaiN9-yMZeg.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaiN9-yMZeg/",
+   "creator": "bargozzy"
+  },
+  {
+   "id": "ed0be1fbb6",
+   "path": "https://www.instagram.com/reel/DahxEJlO_h0/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Delivery partner announcement",
+   "description": "Staff hand a drink to a delivery rider outside the store with the partner's logo over the shot. A staged moment works well for a now-on-delivery update.",
+   "categories": [
+    "product",
+    "food",
+    "news"
+   ],
+   "tags": [
+    "announcement",
+    "staged",
+    "logo-overlay",
+    "on-location"
+   ],
+   "thumb": "thumbs/ig_DahxEJlO_h0.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DahxEJlO_h0/",
+   "creator": "jimmyzburgerz"
+  },
+  {
+   "id": "d7b302ee5d",
+   "path": "https://www.instagram.com/reel/Dah4aBtMoLj/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Plush crowd at the event",
+   "description": "CGI soft toys fill a tennis stadium's stands like spectators. Brands with characters or products can drop them into a big cultural moment as the crowd.",
+   "categories": [
+    "product",
+    "trends",
+    "illustration"
+   ],
+   "tags": [
+    "cgi",
+    "mascot",
+    "cultural-moment",
+    "event"
+   ],
+   "thumb": "thumbs/ig_Dah4aBtMoLj.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dah4aBtMoLj/",
+   "creator": "jellycat"
+  },
+  {
+   "id": "67ddd5932e",
+   "path": "https://www.instagram.com/reel/DagljzbhPdO/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Pay to see paper reveal",
+   "description": "A blue card is held up in front of an office shelf, hiding something behind it. A cheeky way to tease exclusive content or a reveal.",
+   "categories": [
+    "humour",
+    "reveal",
+    "hooks"
+   ],
+   "tags": [
+    "prop",
+    "reveal",
+    "handheld",
+    "teaser"
+   ],
+   "thumb": "thumbs/ig_DagljzbhPdO.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DagljzbhPdO/",
+   "creator": "jpconnelly"
+  },
+  {
+   "id": "ebf94df68e",
+   "path": "https://www.instagram.com/reel/DadL-ryuPeY/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Salon glam campaign film",
+   "description": "Polished beauty campaign with a model in a retro salon setting and the brand logo over the top. Reference for a high-gloss product launch look.",
+   "categories": [
+    "aesthetic",
+    "product"
+   ],
+   "tags": [
+    "campaign",
+    "beauty",
+    "logo-overlay",
+    "styled-shoot"
+   ],
+   "thumb": "thumbs/ig_DadL-ryuPeY.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DadL-ryuPeY/",
+   "creator": "kristinesshair"
+  },
+  {
+   "id": "6334e1e909",
+   "path": "https://www.instagram.com/reel/DacpB__CYSu/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Captcha menu picker",
+   "description": "A fake 'select all images' captcha filled with menu items, where every tile is the answer. Any food or retail brand can borrow the familiar UI for a quick joke.",
+   "categories": [
+    "interactive",
+    "food",
+    "humour"
+   ],
+   "tags": [
+    "ui-parody",
+    "captcha",
+    "grid",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DacpB__CYSu.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DacpB__CYSu/",
+   "creator": "rodilla.gibraltar"
+  },
+  {
+   "id": "5ab4096169",
+   "path": "https://www.instagram.com/reel/Dac125sAQ1C/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Monthly moodboard grid",
+   "description": "A nine-tile grid of cherries, lemons, beach and picnic shots frames the month's name in the middle. Any brand can kick off a month with its own colour-matched moodboard.",
+   "categories": [
+    "aesthetic",
+    "lifestyle",
+    "typography"
+   ],
+   "tags": [
+    "moodboard",
+    "grid-layout",
+    "colour-palette",
+    "seasonal"
+   ],
+   "thumb": "thumbs/ig_Dac125sAQ1C.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Dac125sAQ1C/",
+   "creator": "gloostoodios"
+  },
+  {
+   "id": "0ff2c33957",
+   "path": "https://www.instagram.com/reel/DaZ-xodoqXm/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Squad in the drinks aisle",
+   "description": "Stylish crew poses in a supermarket aisle stacked with the product to mark a rebrand. Strong retail launch visual with attitude.",
+   "categories": [
+    "product",
+    "aesthetic",
+    "clothing"
+   ],
+   "tags": [
+    "retail",
+    "group-shot",
+    "launch",
+    "fashion-styling"
+   ],
+   "thumb": "thumbs/ig_DaZ-xodoqXm.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaZ-xodoqXm/",
+   "creator": "perfecttedenergy"
+  },
+  {
+   "id": "2ba6953fd0",
+   "path": "https://www.instagram.com/reel/DaYD58jhXjY/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Ask your staff a silly question",
+   "description": "Colleagues at a car dealership are asked what sound a firework makes and answer on camera. A cheap staff interview format for holidays or local businesses.",
+   "categories": [
+    "humour",
+    "engagement",
+    "culture"
+   ],
+   "tags": [
+    "staff-interview",
+    "text-overlay",
+    "office",
+    "holiday"
+   ],
+   "thumb": "thumbs/ig_DaYD58jhXjY.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaYD58jhXjY/",
+   "creator": "rinconchevrolet"
+  },
+  {
+   "id": "31562dc9f4",
+   "path": "https://www.instagram.com/reel/DaXJ_FQCLV8/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Phone swipe makes food drop",
+   "description": "A hand swipes a phone and the nuggets drop onto the plate in real life. Simple trick edit for any food or delivery brand.",
+   "categories": [
+    "food",
+    "seamless"
+   ],
+   "tags": [
+    "phone-trick",
+    "transition",
+    "product",
+    "edit"
+   ],
+   "thumb": "thumbs/ig_DaXJ_FQCLV8.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaXJ_FQCLV8/",
+   "creator": "albaalbaki.restaurant"
+  },
+  {
+   "id": "0bd83acf98",
+   "path": "https://www.instagram.com/reel/DaVUBx1guWt/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Buried in sand with a drink",
+   "description": "A guy buried in beach sand still sips his drink, with a line about staying positive no matter what. Works as a funny, relatable drinks moment.",
+   "categories": [
+    "humour",
+    "lifestyle"
+   ],
+   "tags": [
+    "relatable",
+    "text-overlay",
+    "beach",
+    "skit"
+   ],
+   "thumb": "thumbs/ig_DaVUBx1guWt.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaVUBx1guWt/",
+   "creator": "nicobessomusic"
+  },
+  {
+   "id": "f1fc71fc8b",
+   "path": "https://www.instagram.com/reel/DaTZcOUhNVG/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Campaign breakdown explainer",
+   "description": "A creator unpacks a music and tech brand collab with cut-out graphics. Brands can post short case studies of smart campaigns.",
+   "categories": [
+    "news",
+    "culture",
+    "trends"
+   ],
+   "tags": [
+    "talking-head",
+    "cut-out",
+    "explainer",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DaTZcOUhNVG.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaTZcOUhNVG/",
+   "creator": "shinleah"
+  },
+  {
+   "id": "2fc2f0537c",
+   "path": "https://www.instagram.com/reel/DaSjRrhBHki/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Hype dance for an event",
+   "description": "Team members and kids do an excited dance in a venue to build buzz before a community event. Simple way to show staff energy ahead of a launch or activation.",
+   "categories": [
+    "dancing",
+    "culture"
+   ],
+   "tags": [
+    "event-promo",
+    "group-dance",
+    "behind-the-scenes",
+    "handheld"
+   ],
+   "thumb": "thumbs/ig_DaSjRrhBHki.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaSjRrhBHki/",
+   "creator": "yourhopecity"
+  },
+  {
+   "id": "b0be32cc3f",
+   "path": "https://www.instagram.com/reel/DaS8ISjRrrt/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Absurd 'is this AI' animation",
+   "description": "A simple cartoon character points at a screen showing a cat on a unicycle, riffing on spotting AI content. Brands can use a deadpan animated character to comment on internet trends.",
+   "categories": [
+    "illustration",
+    "humour",
+    "trends"
+   ],
+   "tags": [
+    "2d-animation",
+    "absurd",
+    "deadpan",
+    "character"
+   ],
+   "thumb": "thumbs/ig_DaS8ISjRrrt.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaS8ISjRrrt/",
+   "creator": "jocular_ocular"
+  },
+  {
+   "id": "034f57b20b",
+   "path": "https://www.instagram.com/reel/DaRigVFOTeL/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Missing the main ingredient",
+   "description": "Creator sets up to film a recipe, then realises he has everything except the main ingredient. Relatable fail that suits food and grocery brands.",
+   "categories": [
+    "humour",
+    "food"
+   ],
+   "tags": [
+    "skit",
+    "relatable",
+    "kitchen",
+    "fail"
+   ],
+   "thumb": "thumbs/ig_DaRigVFOTeL.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaRigVFOTeL/",
+   "creator": "desmondscott"
+  },
+  {
+   "id": "20970d16f4",
+   "path": "https://www.instagram.com/reel/DaRi5Hgy8Rh/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Dropped ice cream still",
+   "description": "A melting pistachio cone lands upside down on pavement with sprinkles everywhere. A playful, colour-matched summer visual for fashion or food brands.",
+   "categories": [
+    "aesthetic",
+    "food",
+    "humour"
+   ],
+   "tags": [
+    "still-life",
+    "colour-palette",
+    "summer",
+    "art-direction"
+   ],
+   "thumb": "thumbs/ig_DaRi5Hgy8Rh.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaRi5Hgy8Rh/",
+   "creator": "ayanasprowl"
+  },
+  {
+   "id": "8059592156",
+   "path": "https://www.instagram.com/reel/DaQo0y-sRCt/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bus stop trivia",
+   "description": "A recurring series quizzing strangers at a bus stop with a branded title card. Brands can own a weekly quiz format with real people.",
+   "categories": [
+    "engagement",
+    "humour",
+    "interactive"
+   ],
+   "tags": [
+    "street-interview",
+    "quiz",
+    "series",
+    "title-card"
+   ],
+   "thumb": "thumbs/ig_DaQo0y-sRCt.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaQo0y-sRCt/",
+   "creator": "therafflekidofficial"
+  },
+  {
+   "id": "80cd678641",
+   "path": "https://www.instagram.com/reel/DaQhW2ZMv__/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Overheard crowd captions",
+   "description": "Real snippets from a crowd are captioned over candid shots of spectators. Events and venues can collect funny lines heard on the day.",
+   "categories": [
+    "humour",
+    "culture"
+   ],
+   "tags": [
+    "overheard",
+    "captions",
+    "candid",
+    "event"
+   ],
+   "thumb": "thumbs/ig_DaQhW2ZMv__.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaQhW2ZMv__/",
+   "creator": "wimbledon"
+  },
+  {
+   "id": "d09df3df14",
+   "path": "https://www.instagram.com/reel/DaQSierjdBg/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Pet inspects groceries POV",
+   "description": "A cat peers into a paper shopping bag from the inside. Grocery or pet brands can film from inside the bag.",
+   "categories": [
+    "animals",
+    "pov",
+    "humour"
+   ],
+   "tags": [
+    "pov",
+    "pet",
+    "inside-shot",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DaQSierjdBg.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaQSierjdBg/",
+   "creator": "cats_of_instagram"
+  },
+  {
+   "id": "725bb63a49",
+   "path": "https://www.instagram.com/reel/DaQO9Jmtuai/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Foam name on mirror",
+   "description": "A name is drawn in toothpaste-like foam lettering on a steamy bathroom mirror. A creative title card idea for a campaign film or character intro.",
+   "categories": [
+    "typography",
+    "aesthetic"
+   ],
+   "tags": [
+    "3d-type",
+    "title-card",
+    "mirror",
+    "cinematic"
+   ],
+   "thumb": "thumbs/ig_DaQO9Jmtuai.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaQO9Jmtuai/",
+   "creator": "yellowmonkeyfilms"
+  },
+  {
+   "id": "8e9f7edd14",
+   "path": "https://www.instagram.com/reel/DaP3368tqJn/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Forgot an ingredient panic",
+   "description": "A relatable baking moment acted out with a caption and a shocked face. Food brands can pick a tiny kitchen panic their audience knows well.",
+   "categories": [
+    "humour",
+    "food",
+    "ugc"
+   ],
+   "tags": [
+    "skit",
+    "text-overlay",
+    "relatable",
+    "reaction"
+   ],
+   "thumb": "thumbs/ig_DaP3368tqJn.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaP3368tqJn/",
+   "creator": "thejazzybaker1"
+  },
+  {
+   "id": "b3b91eb189",
+   "path": "https://www.instagram.com/reel/DaNrrwjNzK_/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bold word over the scene",
+   "description": "A big branded word sits over a person in the shot, partly behind them. Brands can layer oversized type with depth to stop the scroll.",
+   "categories": [
+    "typography",
+    "hooks",
+    "food"
+   ],
+   "tags": [
+    "text-behind-subject",
+    "bold-type",
+    "text-overlay",
+    "cinematic"
+   ],
+   "thumb": "thumbs/ig_DaNrrwjNzK_.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaNrrwjNzK_/",
+   "creator": "scramblicious_"
+  },
+  {
+   "id": "91c6788f94",
+   "path": "https://www.instagram.com/reel/DaNJDQWMTeH/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Spot your country stamps",
+   "description": "Paper tags are stamped with different city and country marks, inviting viewers to find their own. Global brands can use a 'spot your country' hook to drive comments.",
+   "categories": [
+    "interactive",
+    "engagement",
+    "asmr"
+   ],
+   "tags": [
+    "stamping",
+    "top-down",
+    "comment-bait",
+    "asmr"
+   ],
+   "thumb": "thumbs/ig_DaNJDQWMTeH.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaNJDQWMTeH/",
+   "creator": "refybeauty"
+  },
+  {
+   "id": "1725fa3c9b",
+   "path": "https://www.instagram.com/reel/DaLeN6Fufqf/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Payphone street conversations",
+   "description": "A public payphone is set up and strangers' chats are captioned. Brands can put a prop on the street and record honest moments.",
+   "categories": [
+    "culture",
+    "ugc",
+    "humour"
+   ],
+   "tags": [
+    "street",
+    "prop",
+    "captions",
+    "social-experiment"
+   ],
+   "thumb": "thumbs/ig_DaLeN6Fufqf.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaLeN6Fufqf/",
+   "creator": "matterneuroscience"
+  },
+  {
+   "id": "e65eff30e0",
+   "path": "https://www.instagram.com/reel/DaLTda6K87T/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Overreact POV face",
+   "description": "A guy pulls a huge grin to a POV caption about being smiled at. Simple reaction format any brand ambassador can do.",
+   "categories": [
+    "pov",
+    "humour"
+   ],
+   "tags": [
+    "pov",
+    "reaction",
+    "talking-head",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DaLTda6K87T.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaLTda6K87T/",
+   "creator": "kindofabigdeal"
+  },
+  {
+   "id": "76e4ed0655",
+   "path": "https://www.instagram.com/reel/DaLLkubRqHE/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Clothes rack outfit transition tutorial",
+   "description": "Creator breaks down how he did an outfit change using a clothes rack, with lighting tips. Reference for editors attempting the effect.",
+   "categories": [
+    "clothing",
+    "seamless"
+   ],
+   "tags": [
+    "tutorial",
+    "transition",
+    "outfit-change",
+    "talking-head"
+   ],
+   "thumb": "thumbs/ig_DaLLkubRqHE.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaLLkubRqHE/",
+   "creator": "enriquestories"
+  },
+  {
+   "id": "712f02dde2",
+   "path": "https://www.instagram.com/reel/DaI1mA6JjX0/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Painting comes to life",
+   "description": "A painting of an ice cream tub on an easel by the pool blends into a real summer scene. Brands can start in an artwork of their product and transition into the real thing.",
+   "categories": [
+    "illustration",
+    "product",
+    "seamless"
+   ],
+   "tags": [
+    "painting",
+    "transition",
+    "mixed-media",
+    "summer"
+   ],
+   "thumb": "thumbs/ig_DaI1mA6JjX0.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DaI1mA6JjX0/",
+   "creator": "ed.it.son"
+  },
+  {
+   "id": "d77c6b8af2",
+   "path": "https://www.instagram.com/reel/Da8YLOuJFjI/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Milk moustache server reaction",
+   "description": "A server at the hatch stares at the customer with a cream moustache, implying he ate the order. Food trucks and takeaways can stage small service window skits like this.",
+   "categories": [
+    "humour",
+    "food"
+   ],
+   "tags": [
+    "skit",
+    "reaction",
+    "service-window",
+    "deadpan"
+   ],
+   "thumb": "thumbs/ig_Da8YLOuJFjI.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da8YLOuJFjI/",
+   "creator": "frozenvibezphl"
+  },
+  {
+   "id": "af22dc9018",
+   "path": "https://www.instagram.com/reel/Da5lieLo_N5/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Shopfront weekend opener",
+   "description": "Opens on the cafe's signage and window before heading inside to the food. A simple establishing shot that local spots can use to kick off weekend posts.",
+   "categories": [
+    "food",
+    "lifestyle"
+   ],
+   "tags": [
+    "establishing-shot",
+    "shopfront",
+    "local",
+    "signage"
+   ],
+   "thumb": "thumbs/ig_Da5lieLo_N5.jpg",
+   "w": 361,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da5lieLo_N5/",
+   "creator": "batchfiftytwo"
+  },
+  {
+   "id": "3c539d2af9",
+   "path": "https://www.instagram.com/reel/Da3CfXNM4CR/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Sticker mouth friend group",
+   "description": "Holiday photos of friends get cartoon lips stuck over their mouths for a silly lip-sync. A low effort edit brands can use for team trips or events.",
+   "categories": [
+    "humour",
+    "trends"
+   ],
+   "tags": [
+    "sticker",
+    "lip-sync",
+    "photo-edit",
+    "group"
+   ],
+   "thumb": "thumbs/ig_Da3CfXNM4CR.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da3CfXNM4CR/",
+   "creator": "dydarik"
+  },
+  {
+   "id": "9de0213850",
+   "path": "https://www.instagram.com/reel/Da2hP6Qh7jA/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Game controller staff skit",
+   "description": "Bar staff are 'controlled' with on-screen controller buttons and joke instructions. Fun staff-led format for hospitality brands.",
+   "categories": [
+    "humour",
+    "interactive"
+   ],
+   "tags": [
+    "game-overlay",
+    "staff-skit",
+    "text-overlay",
+    "hospitality"
+   ],
+   "thumb": "thumbs/ig_Da2hP6Qh7jA.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da2hP6Qh7jA/",
+   "creator": "thebarnwinebar"
+  },
+  {
+   "id": "06ee66b66f",
+   "path": "https://www.instagram.com/reel/Da-pfLKtXeX/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bouncing egg loop",
+   "description": "A single egg animated on a plain backdrop to a dance track. Food brands can give their hero product a character with simple motion.",
+   "categories": [
+    "food",
+    "humour",
+    "aesthetic"
+   ],
+   "tags": [
+    "stop-motion",
+    "minimal",
+    "music-sync",
+    "product-animation"
+   ],
+   "thumb": "thumbs/ig_Da-pfLKtXeX.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da-pfLKtXeX/",
+   "creator": "scramblicious_"
+  },
+  {
+   "id": "d058574a0a",
+   "path": "https://www.instagram.com/reel/Da-j5aaNfSR/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Past, present, future plate",
+   "description": "Three stacked shots show an empty plate, a dosa being eaten and a finished plate labelled past, present and future. An easy split-frame idea restaurants can use for any dish.",
+   "categories": [
+    "food",
+    "typography"
+   ],
+   "tags": [
+    "split-screen",
+    "top-down",
+    "text-overlay",
+    "stop-motion"
+   ],
+   "thumb": "thumbs/ig_Da-j5aaNfSR.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da-j5aaNfSR/",
+   "creator": "bisi_bele"
+  },
+  {
+   "id": "d866c8400a",
+   "path": "https://www.instagram.com/reel/Da-4trsI1yx/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Mirror jersey switch edit",
+   "description": "Couple in rival football jerseys take a mirror selfie, then the edit plays with who wins via quick creative cuts. A neat match-day format for sports or fashion brands.",
+   "categories": [
+    "clothing",
+    "trends",
+    "seamless"
+   ],
+   "tags": [
+    "mirror-selfie",
+    "transition",
+    "jersey",
+    "match-day",
+    "couple"
+   ],
+   "thumb": "thumbs/ig_Da-4trsI1yx.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Da-4trsI1yx/",
+   "creator": "nordic_scott"
+  },
+  {
+   "id": "ac6057eea8",
+   "path": "https://www.instagram.com/reel/DZwyRwcp1CA/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Top-down iced coffee pour",
+   "description": "A minimal overhead shot of iced coffee on a white surface, framed as a calm break from overthinking. Coffee brands can pair a simple pour with a relatable mood caption.",
+   "categories": [
+    "pov",
+    "aesthetic",
+    "food"
+   ],
+   "tags": [
+    "top-down",
+    "minimal",
+    "coffee",
+    "asmr"
+   ],
+   "thumb": "thumbs/ig_DZwyRwcp1CA.jpg",
+   "w": 640,
+   "h": 358,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZwyRwcp1CA/",
+   "creator": "rojinzii"
+  },
+  {
+   "id": "7ff8f071cd",
+   "path": "https://www.instagram.com/reel/DZuhVfONgLP/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Flying caps try-on",
+   "description": "Caps fly in from all sides while the creator sits still, swapping between them. Headwear or accessory brands can show a whole range in one quick visual gag.",
+   "categories": [
+    "clothing",
+    "product",
+    "aesthetic"
+   ],
+   "tags": [
+    "stop-motion",
+    "jump-cut",
+    "product-range",
+    "fashion"
+   ],
+   "thumb": "thumbs/ig_DZuhVfONgLP.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZuhVfONgLP/",
+   "creator": "gat.noir"
+  },
+  {
+   "id": "6e35d75e56",
+   "path": "https://www.instagram.com/reel/DZsldxMIGbv/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Fridge door pun skit",
+   "description": "Short skit built around a play on words about tradwives, staged at the fridge door. Shows how a single pun can carry a whole reel.",
+   "categories": [
+    "humour",
+    "trends"
+   ],
+   "tags": [
+    "skit",
+    "wordplay",
+    "domestic",
+    "hand-held"
+   ],
+   "thumb": "thumbs/ig_DZsldxMIGbv.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZsldxMIGbv/",
+   "creator": "ellina_temirova"
+  },
+  {
+   "id": "d5c831f7cc",
+   "path": "https://www.instagram.com/reel/DZsNZ49S1lt/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Timestamped work day vlog",
+   "description": "Moody macro shots tagged with clock times walk through a work day minute by minute. Brands can show a day behind the scenes with simple time stamps.",
+   "categories": [
+    "lifestyle",
+    "habits",
+    "aesthetic"
+   ],
+   "tags": [
+    "minivlog",
+    "timestamps",
+    "macro",
+    "day-in-the-life"
+   ],
+   "thumb": "thumbs/ig_DZsNZ49S1lt.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZsNZ49S1lt/",
+   "creator": "kylankor"
+  },
+  {
+   "id": "649713956c",
+   "path": "https://www.instagram.com/reel/DZnF0k9ozRA/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Products at the shoreline",
+   "description": "Skincare tubs sit on the sand as a wave washes in next to a coconut. Beauty and body brands can shoot products in nature for a calm, seasonal mood piece.",
+   "categories": [
+    "product",
+    "aesthetic"
+   ],
+   "tags": [
+    "product-styling",
+    "beach",
+    "natural-light",
+    "seasonal"
+   ],
+   "thumb": "thumbs/ig_DZnF0k9ozRA.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZnF0k9ozRA/",
+   "creator": "theact.labs"
+  },
+  {
+   "id": "6e9e96a7d4",
+   "path": "https://www.instagram.com/reel/DZhpWlyxHio/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Talking head trend explainer",
+   "description": "A creator talks over a mockup of serialised episodes in a Reels feed, explaining what's coming. Brands can use the green screen explainer to share platform news with their audience.",
+   "categories": [
+    "news",
+    "trends"
+   ],
+   "tags": [
+    "green-screen",
+    "talking-head",
+    "captions",
+    "explainer"
+   ],
+   "thumb": "thumbs/ig_DZhpWlyxHio.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZhpWlyxHio/",
+   "creator": "a_producer_guy"
+  },
+  {
+   "id": "97ee282863",
+   "path": "https://www.instagram.com/reel/DZfjP1kxFFR/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Emoji recipe drink build",
+   "description": "Emoji icons line up above a mocktail to show its ingredients, then the drink is mixed. Cafes and drinks brands can use an emoji ingredient row as a quick recipe card.",
+   "categories": [
+    "food",
+    "typography"
+   ],
+   "tags": [
+    "emoji",
+    "recipe",
+    "drink",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DZfjP1kxFFR.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZfjP1kxFFR/",
+   "creator": "pursimple"
+  },
+  {
+   "id": "9b381e7b0f",
+   "path": "https://www.instagram.com/reel/DZcp6JGSnuZ/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Picking shoes forever",
+   "description": "Relatable 'nothing to wear' joke where she spends ages choosing between three pairs of shoes. Easy product line-up for any fashion or footwear brand.",
+   "categories": [
+    "clothing",
+    "humour",
+    "product"
+   ],
+   "tags": [
+    "relatable",
+    "text-overlay",
+    "product-lineup",
+    "static-shot"
+   ],
+   "thumb": "thumbs/ig_DZcp6JGSnuZ.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZcp6JGSnuZ/",
+   "creator": "delafee.official"
+  },
+  {
+   "id": "08a3005d87",
+   "path": "https://www.instagram.com/reel/DZYUeILhwOT/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Day of the week flavours",
+   "description": "Each weekday gets a mood and a matching product, with big type naming the day. Brands with a range can map each variant to a day of the week.",
+   "categories": [
+    "product",
+    "lifestyle",
+    "typography"
+   ],
+   "tags": [
+    "series",
+    "split-screen",
+    "bold-type",
+    "flat-lay",
+    "summer"
+   ],
+   "thumb": "thumbs/ig_DZYUeILhwOT.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZYUeILhwOT/",
+   "creator": "chelseaasoflate"
+  },
+  {
+   "id": "2c70ee4799",
+   "path": "https://www.instagram.com/reel/DZTF0wKP_Rf/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Gift bag product unboxing",
+   "description": "Sunglasses hang off a branded gift bag on a table, pitched as the right Valentine's present. Retailers can shoot the gift packaging itself as the hero for gifting moments.",
+   "categories": [
+    "product",
+    "lifestyle"
+   ],
+   "tags": [
+    "gifting",
+    "packaging",
+    "product-shot",
+    "seasonal"
+   ],
+   "thumb": "thumbs/ig_DZTF0wKP_Rf.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZTF0wKP_Rf/",
+   "creator": "donafinaoficial_"
+  },
+  {
+   "id": "3bff30f6e9",
+   "path": "https://www.instagram.com/reel/DZSFl2vAn5w/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Island vibes accessory shot",
+   "description": "Close-up of flower hair claws hanging off a beach bag in bright sun. Easy summer styling shot for accessories.",
+   "categories": [
+    "clothing",
+    "aesthetic",
+    "ugc"
+   ],
+   "tags": [
+    "close-up",
+    "accessories",
+    "summer",
+    "ugc"
+   ],
+   "thumb": "thumbs/ig_DZSFl2vAn5w.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZSFl2vAn5w/",
+   "creator": "ugc_bysabi"
+  },
+  {
+   "id": "593ebd8986",
+   "path": "https://www.instagram.com/reel/DZP09ChJv6Y/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Tool grid brand intro",
+   "description": "Hand tools laid out in a clean grid on white around the brand name. Craft and furniture brands can introduce themselves through the tools that make the work.",
+   "categories": [
+    "aesthetic",
+    "product",
+    "culture"
+   ],
+   "tags": [
+    "flat-lay",
+    "grid-layout",
+    "stop-motion",
+    "minimal",
+    "logo-reveal"
+   ],
+   "thumb": "thumbs/ig_DZP09ChJv6Y.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZP09ChJv6Y/",
+   "creator": "houseofthinai.in"
+  },
+  {
+   "id": "8715a2b894",
+   "path": "https://www.instagram.com/reel/DZN6WXgBf1-/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Phone in frame shot",
+   "description": "Someone films a cake display through their phone camera, making the viewer feel like the customer. Bakeries can use phone-screen framing to show how good the counter looks.",
+   "categories": [
+    "food",
+    "ugc",
+    "pov"
+   ],
+   "tags": [
+    "phone-in-frame",
+    "pov",
+    "display-case",
+    "customer"
+   ],
+   "thumb": "thumbs/ig_DZN6WXgBf1-.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZN6WXgBf1-/",
+   "creator": "panaderiamilonguita"
+  },
+  {
+   "id": "9b180fbbf1",
+   "path": "https://www.instagram.com/reel/DZN0COvyeQo/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Doodle overlay music video",
+   "description": "Live footage is layered with hand-drawn animation, scribbles and cut-out figures so every rewatch shows something new. Fashion or music brands can add rough illustration over simple outfit clips.",
+   "categories": [
+    "illustration",
+    "clothing",
+    "aesthetic"
+   ],
+   "tags": [
+    "hand-drawn",
+    "mixed-media",
+    "animation",
+    "collage",
+    "procreate"
+   ],
+   "thumb": "thumbs/ig_DZN0COvyeQo.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZN0COvyeQo/",
+   "creator": "rachels_room_art"
+  },
+  {
+   "id": "fe97e40b81",
+   "path": "https://www.instagram.com/reel/DZK3n3xI-R7/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Food photo swiped from a phone",
+   "description": "The video mimics swiping through a phone's photo app to land on the dish. Playful edit for menu or recipe content.",
+   "categories": [
+    "food",
+    "seamless"
+   ],
+   "tags": [
+    "phone-ui",
+    "edit",
+    "transition",
+    "close-up"
+   ],
+   "thumb": "thumbs/ig_DZK3n3xI-R7.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZK3n3xI-R7/",
+   "creator": "omelegg"
+  },
+  {
+   "id": "47d02d46de",
+   "path": "https://www.instagram.com/reel/DZIMtbdqP5s/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Text in the coffee",
+   "description": "A top-down coffee cup with a word that ripples in the drink. Cafes and coffee brands can drop a short question or offer straight into the cup.",
+   "categories": [
+    "food",
+    "typography",
+    "aesthetic"
+   ],
+   "tags": [
+    "top-down",
+    "text-overlay",
+    "vfx",
+    "minimal"
+   ],
+   "thumb": "thumbs/ig_DZIMtbdqP5s.jpg",
+   "w": 361,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZIMtbdqP5s/",
+   "creator": "yashbabusheth"
+  },
+  {
+   "id": "ea477a7948",
+   "path": "https://www.instagram.com/reel/DZFI3S4oL6Y/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Stacked drink line up",
+   "description": "Four drinks are held out in a vertical stack against the same backdrop. Cafes can show their whole range at once and ask for favourites.",
+   "categories": [
+    "food",
+    "product",
+    "engagement"
+   ],
+   "tags": [
+    "grid-layout",
+    "line-up",
+    "hands",
+    "poll"
+   ],
+   "thumb": "thumbs/ig_DZFI3S4oL6Y.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZFI3S4oL6Y/",
+   "creator": "sandcafe.co"
+  },
+  {
+   "id": "a8cf407408",
+   "path": "https://www.instagram.com/reel/DZDKJUGsc2L/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Hidden word search teaser",
+   "description": "A word search taped to a locker hides the event name, teasing a ticket drop. Event and launch brands can use a word puzzle as a teaser that gets people pausing.",
+   "categories": [
+    "interactive",
+    "typography",
+    "hooks"
+   ],
+   "tags": [
+    "word-search",
+    "teaser",
+    "puzzle",
+    "announcement"
+   ],
+   "thumb": "thumbs/ig_DZDKJUGsc2L.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZDKJUGsc2L/",
+   "creator": "summerweek47"
+  },
+  {
+   "id": "93d006cded",
+   "path": "https://www.instagram.com/reel/DZDFHS9ocSd/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Garment in the wild",
+   "description": "A single shirt hung in an orchard with garden props. Fashion brands can shoot a product in an unexpected outdoor setting.",
+   "categories": [
+    "clothing",
+    "aesthetic",
+    "product"
+   ],
+   "tags": [
+    "still-life",
+    "outdoor",
+    "styled-set",
+    "cinematic"
+   ],
+   "thumb": "thumbs/ig_DZDFHS9ocSd.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZDFHS9ocSd/",
+   "creator": "guestinresidence"
+  },
+  {
+   "id": "fd23bae5d1",
+   "path": "https://www.instagram.com/reel/DZCShVgg36v/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Stacked boxes street walk",
+   "description": "Someone walks across a city street carrying a tall stack of branded boxes to tease a new location. Quirky way to announce an opening.",
+   "categories": [
+    "humour",
+    "news",
+    "aesthetic"
+   ],
+   "tags": [
+    "street",
+    "teaser",
+    "branded-props",
+    "opening"
+   ],
+   "thumb": "thumbs/ig_DZCShVgg36v.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZCShVgg36v/",
+   "creator": "goodside_cafe"
+  },
+  {
+   "id": "4317723c1f",
+   "path": "https://www.instagram.com/reel/DZ9-P26sXWL/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Drawing on toast edit tutorial",
+   "description": "A creator explains how to make toast look like it's being drawn on, with the effect shown on a plate. Food brands can borrow the draw-on effect for a playful product intro.",
+   "categories": [
+    "food",
+    "illustration"
+   ],
+   "tags": [
+    "tutorial",
+    "green-screen",
+    "animation",
+    "talking-head"
+   ],
+   "thumb": "thumbs/ig_DZ9-P26sXWL.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZ9-P26sXWL/",
+   "creator": "stevenwommack"
+  },
+  {
+   "id": "886cdd15f5",
+   "path": "https://www.instagram.com/reel/DZ5NowTqKD7/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Couple DIY sarcasm skit",
+   "description": "Wife fake-cheers in front of an unused ladder about a DIY job that never gets done. Hardware brands can play on household relatable humour.",
+   "categories": [
+    "humour",
+    "lifestyle"
+   ],
+   "tags": [
+    "skit",
+    "captions",
+    "relatable",
+    "couple"
+   ],
+   "thumb": "thumbs/ig_DZ5NowTqKD7.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZ5NowTqKD7/",
+   "creator": "smellywomenofficial"
+  },
+  {
+   "id": "59a4e7b7fb",
+   "path": "https://www.instagram.com/reel/DZ2DtYLSXYG/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Chaotic dates product test",
+   "description": "A creator runs through a string of messy date scenarios to show a setting spray still holds. Beauty brands can stress test a product through relatable story beats instead of a lab demo.",
+   "categories": [
+    "ugc",
+    "humour",
+    "product"
+   ],
+   "tags": [
+    "storytelling",
+    "sponsored",
+    "street",
+    "product-test"
+   ],
+   "thumb": "thumbs/ig_DZ2DtYLSXYG.jpg",
+   "w": 359,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZ2DtYLSXYG/",
+   "creator": "hazel.kan"
+  },
+  {
+   "id": "752c5769a9",
+   "path": "https://www.instagram.com/reel/DZ-XxD7RuqN/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Raw material hands texture",
+   "description": "Hands press into moss on a white surface, framing the earthy ingredient behind a fragrance. Beauty brands can tell the material story without showing the bottle much.",
+   "categories": [
+    "aesthetic",
+    "asmr",
+    "product"
+   ],
+   "tags": [
+    "hands",
+    "texture",
+    "top-down",
+    "tactile",
+    "minimal"
+   ],
+   "thumb": "thumbs/ig_DZ-XxD7RuqN.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DZ-XxD7RuqN/",
+   "creator": "sujet_parfums"
+  },
+  {
+   "id": "9b0c936c34",
+   "path": "https://www.instagram.com/reel/DYzqz1SukcF/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Phone on the cup trick",
+   "description": "A phone is placed on a cup and lifted to reveal the drink, timed with 'it's time for coffee' text. Short teaser format for a cafe menu.",
+   "categories": [
+    "food",
+    "seamless",
+    "hooks"
+   ],
+   "tags": [
+    "phone-trick",
+    "text-overlay",
+    "teaser",
+    "cafe"
+   ],
+   "thumb": "thumbs/ig_DYzqz1SukcF.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYzqz1SukcF/",
+   "creator": "bloomcafe_dallas"
+  },
+  {
+   "id": "56ec6807b9",
+   "path": "https://www.instagram.com/reel/DYrCS8AtjPM/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Paper doll fitting room",
+   "description": "A paper cut-out model sits in the middle while paper clothes are swapped onto her. Fashion brands can show outfit options as a tactile paper doll game.",
+   "categories": [
+    "clothing",
+    "interactive",
+    "illustration"
+   ],
+   "tags": [
+    "paper-craft",
+    "stop-motion",
+    "top-down",
+    "outfit-swap"
+   ],
+   "thumb": "thumbs/ig_DYrCS8AtjPM.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYrCS8AtjPM/",
+   "creator": "najistudios"
+  },
+  {
+   "id": "eee5f6e990",
+   "path": "https://www.instagram.com/reel/DYpKZWJhhnG/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Pull the drink out of the phone",
+   "description": "A finger swipes a phone screen and the drink appears to come out of it into the real world. Fun trick for cafes and drink launches.",
+   "categories": [
+    "food",
+    "seamless"
+   ],
+   "tags": [
+    "phone-trick",
+    "transition",
+    "illusion",
+    "product"
+   ],
+   "thumb": "thumbs/ig_DYpKZWJhhnG.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYpKZWJhhnG/",
+   "creator": "debyzcoffee"
+  },
+  {
+   "id": "d813c0f2a4",
+   "path": "https://www.instagram.com/reel/DYmtbSKRCD7/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Emoji keyboard outfit picker",
+   "description": "An emoji keyboard sits under the frame and each tap swaps the outfit. Fashion brands can let emojis drive the outfit changes.",
+   "categories": [
+    "clothing",
+    "interactive",
+    "trends"
+   ],
+   "tags": [
+    "emoji",
+    "transition",
+    "outfit-change",
+    "ui-overlay"
+   ],
+   "thumb": "thumbs/ig_DYmtbSKRCD7.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYmtbSKRCD7/",
+   "creator": "kellyaraujof_"
+  },
+  {
+   "id": "2084081928",
+   "path": "https://www.instagram.com/reel/DYmc3emho6s/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Grid frame walk-through",
+   "description": "A model walks across a nine panel grid, each frame showing a slightly different part of her stride. Fashion brands can use the tiled grid edit to show a new outfit in motion.",
+   "categories": [
+    "clothing",
+    "seamless"
+   ],
+   "tags": [
+    "grid-layout",
+    "walk-cycle",
+    "minimal",
+    "compositing"
+   ],
+   "thumb": "thumbs/ig_DYmc3emho6s.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYmc3emho6s/",
+   "creator": "aake.kr"
+  },
+  {
+   "id": "3af7cc92ee",
+   "path": "https://www.instagram.com/reel/DYkPbOnoD7d/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Paper outfit on a washing line",
+   "description": "A paper cut-out outfit hangs on a washing line in front of the model so it looks like she's wearing it. Playful way to tease a print or clothing collection.",
+   "categories": [
+    "clothing",
+    "aesthetic"
+   ],
+   "tags": [
+    "cutout",
+    "illusion",
+    "outdoor",
+    "launch-teaser"
+   ],
+   "thumb": "thumbs/ig_DYkPbOnoD7d.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYkPbOnoD7d/",
+   "creator": "seniq"
+  },
+  {
+   "id": "9ba9ab18d3",
+   "path": "https://www.instagram.com/reel/DYeb8pgIcQc/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Styled tray flat lay",
+   "description": "Top-down flat lay of a breakfast tray styled with skincare and accessories in one colour palette. Good for a product range shot.",
+   "categories": [
+    "aesthetic",
+    "ugc",
+    "product"
+   ],
+   "tags": [
+    "flat-lay",
+    "top-down",
+    "colour-matching",
+    "ugc"
+   ],
+   "thumb": "thumbs/ig_DYeb8pgIcQc.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYeb8pgIcQc/",
+   "creator": "ugc_bysabi"
+  },
+  {
+   "id": "f979eed505",
+   "path": "https://www.instagram.com/reel/DYcf4BWNnyq/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Napkin spill message reveal",
+   "description": "A message written on a napkin appears when it's dropped onto spilt water. Any brand can use this cheap trick to reveal a line or offer at the start of a reel.",
+   "categories": [
+    "hooks",
+    "reveal",
+    "typography"
+   ],
+   "tags": [
+    "visual-hook",
+    "diy",
+    "reveal",
+    "handwritten"
+   ],
+   "thumb": "thumbs/ig_DYcf4BWNnyq.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYcf4BWNnyq/",
+   "creator": "puregallussocial"
+  },
+  {
+   "id": "166de874e3",
+   "path": "https://www.instagram.com/reel/DYYDQ97Bppu/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Seasonal produce close-up",
+   "description": "Macro shot of fresh asparagus to announce the first of the season and a sale price. Simple way for grocers to flag seasonal stock.",
+   "categories": [
+    "food",
+    "deals",
+    "product"
+   ],
+   "tags": [
+    "macro",
+    "seasonal",
+    "price-callout",
+    "retail"
+   ],
+   "thumb": "thumbs/ig_DYYDQ97Bppu.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYYDQ97Bppu/",
+   "creator": "oldfarmmarket"
+  },
+  {
+   "id": "14f7df01bc",
+   "path": "https://www.instagram.com/reel/DYPeqyxsxk_/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Date distracted by the drink",
+   "description": "A cafe skit where a couple's moment is interrupted by how good the menu item is. Food brands can make the product the third wheel.",
+   "categories": [
+    "humour",
+    "food",
+    "product"
+   ],
+   "tags": [
+    "skit",
+    "acting",
+    "cafe",
+    "storytelling"
+   ],
+   "thumb": "thumbs/ig_DYPeqyxsxk_.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYPeqyxsxk_/",
+   "creator": "safia_kz"
+  },
+  {
+   "id": "893280d525",
+   "path": "https://www.instagram.com/reel/DYES8DqIqCQ/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Visual hook examples",
+   "description": "A creator shows short visual hooks, like sticky notes on a laptop, to grab attention. Useful reference for opening shots on any brand reel.",
+   "categories": [
+    "hooks",
+    "aesthetic"
+   ],
+   "tags": [
+    "visual-hook",
+    "tutorial",
+    "b-roll",
+    "creator-tips"
+   ],
+   "thumb": "thumbs/ig_DYES8DqIqCQ.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DYES8DqIqCQ/",
+   "creator": "cj.filmed.it"
+  },
+  {
+   "id": "1695798d08",
+   "path": "https://www.instagram.com/reel/DXlicVRk18Y/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Three edit cuts tutorial",
+   "description": "Shows simple cutting tricks using a can of cola as the subject. Brands can teach basic video tips while their product stars.",
+   "categories": [
+    "product",
+    "hooks"
+   ],
+   "tags": [
+    "tutorial",
+    "editing",
+    "match-cut",
+    "top-down"
+   ],
+   "thumb": "thumbs/ig_DXlicVRk18Y.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DXlicVRk18Y/",
+   "creator": "mridupawasharma"
+  },
+  {
+   "id": "b2ed3b6961",
+   "path": "https://www.instagram.com/reel/DXeK9A-CTBg/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Setup vs the shot",
+   "description": "Bold type sets up a comparison between the messy production setup and the final shot. A strong behind-the-scenes hook brands can use to show how a product shoot was made.",
+   "categories": [
+    "reveal",
+    "hooks"
+   ],
+   "tags": [
+    "behind-the-scenes",
+    "before-after",
+    "text-overlay",
+    "low-light"
+   ],
+   "thumb": "thumbs/ig_DXeK9A-CTBg.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DXeK9A-CTBg/",
+   "creator": "yanooppa"
+  },
+  {
+   "id": "2e5bbddb7a",
+   "path": "https://www.instagram.com/reel/DXRp5cDgZdb/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Scrabble tile message",
+   "description": "A finger pushes Scrabble tiles one by one to spell a message. Any brand can deliver a short line or offer this way.",
+   "categories": [
+    "typography",
+    "engagement",
+    "trends"
+   ],
+   "tags": [
+    "scrabble-tiles",
+    "top-down",
+    "text-reveal",
+    "diy"
+   ],
+   "thumb": "thumbs/ig_DXRp5cDgZdb.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DXRp5cDgZdb/",
+   "creator": "yycnewhomes"
+  },
+  {
+   "id": "f874d667b3",
+   "path": "https://www.instagram.com/reel/DX2MtN2vgzY/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "How it's made edit tutorial",
+   "description": "A creator shows how a seamless effect was made on a phone editor. Brands can share their own editing process as a behind the scenes post.",
+   "categories": [
+    "seamless",
+    "hooks"
+   ],
+   "tags": [
+    "tutorial",
+    "capcut",
+    "behind-the-scenes",
+    "transition"
+   ],
+   "thumb": "thumbs/ig_DX2MtN2vgzY.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DX2MtN2vgzY/",
+   "creator": "itsscottherder"
+  },
+  {
+   "id": "c0a2b8ddfb",
+   "path": "https://www.instagram.com/reel/DWiVmUzD0Aw/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Street style outfit check",
+   "description": "A polka-dot jumper and wide jeans styled outside a shop window. Fashion brands can repost simple outfit-in-the-wild clips.",
+   "categories": [
+    "clothing",
+    "aesthetic",
+    "lifestyle"
+   ],
+   "tags": [
+    "street-style",
+    "outfit",
+    "ootd",
+    "on-location"
+   ],
+   "thumb": "thumbs/ig_DWiVmUzD0Aw.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DWiVmUzD0Aw/",
+   "creator": "bananalace"
+  },
+  {
+   "id": "04001e5560",
+   "path": "https://www.instagram.com/reel/DWcrWFhjP8w/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Transition tutorial duet",
+   "description": "Creator reacts in picture-in-picture while another clip shows a drink transition being made. Brands can stitch a trending edit trick and show how it's done.",
+   "categories": [
+    "trends",
+    "seamless",
+    "ugc"
+   ],
+   "tags": [
+    "picture-in-picture",
+    "transition",
+    "tutorial",
+    "stitch"
+   ],
+   "thumb": "thumbs/ig_DWcrWFhjP8w.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DWcrWFhjP8w/",
+   "creator": "kevkevkiwi"
+  },
+  {
+   "id": "5d83ec842c",
+   "path": "https://www.instagram.com/reel/DWVOSY4j_RY/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Impossible sports trick",
+   "description": "A tennis player serves a whole bunch of balls at once with a 'new technique' caption. Sports brands can post a silly fake skill for shares.",
+   "categories": [
+    "humour",
+    "trends",
+    "pov"
+   ],
+   "tags": [
+    "vfx",
+    "text-overlay",
+    "sports",
+    "fake-skill"
+   ],
+   "thumb": "thumbs/ig_DWVOSY4j_RY.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DWVOSY4j_RY/",
+   "creator": "tennismood.daily"
+  },
+  {
+   "id": "7531532dc2",
+   "path": "https://www.instagram.com/reel/DWMJ8cRkURd/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Creator under the giant sign",
+   "description": "Influencer eats fries in a styled set under an oversized brand sign at a festival. Good reference for activation content with creators.",
+   "categories": [
+    "ugc",
+    "food",
+    "culture"
+   ],
+   "tags": [
+    "activation",
+    "influencer",
+    "festival",
+    "low-angle"
+   ],
+   "thumb": "thumbs/ig_DWMJ8cRkURd.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DWMJ8cRkURd/",
+   "creator": "kellyaraujof_"
+  },
+  {
+   "id": "4e3a5d709a",
+   "path": "https://www.instagram.com/reel/DWEmtOsNAvm/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Healthy eating fail POV",
+   "description": "A POV skit where good intentions lose to cravings. Snack and food brands can play on everyday guilty pleasures.",
+   "categories": [
+    "pov",
+    "humour",
+    "food"
+   ],
+   "tags": [
+    "skit",
+    "text-overlay",
+    "relatable",
+    "pov"
+   ],
+   "thumb": "thumbs/ig_DWEmtOsNAvm.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DWEmtOsNAvm/",
+   "creator": "daniepitbull"
+  },
+  {
+   "id": "49aa1262ae",
+   "path": "https://www.instagram.com/reel/DW51lM6jrla/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Bell ring dish service",
+   "description": "A hand rings a service bell as the plated dish lands on a dark bar counter. Moody hero shot for restaurants.",
+   "categories": [
+    "food",
+    "aesthetic",
+    "asmr"
+   ],
+   "tags": [
+    "service-bell",
+    "moody",
+    "close-up",
+    "restaurant"
+   ],
+   "thumb": "thumbs/ig_DW51lM6jrla.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DW51lM6jrla/",
+   "creator": "sunduk_art"
+  },
+  {
+   "id": "3525ed6433",
+   "path": "https://www.instagram.com/reel/DW1lpRLCefv/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Hands grabbing the spread",
+   "description": "Hands reach in from all sides to grab dishes from a shared table. Restaurants can show a menu as a group moment.",
+   "categories": [
+    "food",
+    "aesthetic"
+   ],
+   "tags": [
+    "top-down",
+    "hands-only",
+    "shared-table",
+    "menu-showcase"
+   ],
+   "thumb": "thumbs/ig_DW1lpRLCefv.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DW1lpRLCefv/",
+   "creator": "myata.dubai"
+  },
+  {
+   "id": "468cc9c1ec",
+   "path": "https://www.instagram.com/reel/DW-88N2jaD5/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Posed crew lookbook",
+   "description": "A cinematic lookbook of a group in matching pieces. Streetwear brands can shoot a squad in coordinated outfits.",
+   "categories": [
+    "clothing",
+    "aesthetic"
+   ],
+   "tags": [
+    "lookbook",
+    "cinematic",
+    "group",
+    "fashion"
+   ],
+   "thumb": "thumbs/ig_DW-88N2jaD5.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DW-88N2jaD5/",
+   "creator": "andppa_"
+  },
+  {
+   "id": "bad17a099b",
+   "path": "https://www.instagram.com/reel/DVlA7T0Dalk/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Sign in the sky joke",
+   "description": "Cyclist spots something in the sky as an excuse to ride. Light humour format for sport or lifestyle brands.",
+   "categories": [
+    "humour",
+    "lifestyle"
+   ],
+   "tags": [
+    "relatable",
+    "sport",
+    "skit",
+    "outdoor"
+   ],
+   "thumb": "thumbs/ig_DVlA7T0Dalk.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DVlA7T0Dalk/",
+   "creator": "thorina_s"
+  },
+  {
+   "id": "b28ace39f5",
+   "path": "https://www.instagram.com/reel/DUMTY4IgHl_/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Catch the falling snacks",
+   "description": "A creator 'catches' snacks dropping from above in a playful game. Snack brands can turn a launch into a challenge with animated product drops.",
+   "categories": [
+    "interactive",
+    "food",
+    "product"
+   ],
+   "tags": [
+    "vfx",
+    "game",
+    "falling-objects",
+    "street"
+   ],
+   "thumb": "thumbs/ig_DUMTY4IgHl_.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DUMTY4IgHl_/",
+   "creator": "sofitamanini"
+  },
+  {
+   "id": "db4b78f180",
+   "path": "https://www.instagram.com/reel/DShlHnTEcmx/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Thumb to the beat",
+   "description": "Viewers are told to tap along to the music as dishes cut on the beat. Restaurants can turn a menu montage into a mini game.",
+   "categories": [
+    "interactive",
+    "food",
+    "trends"
+   ],
+   "tags": [
+    "beat-sync",
+    "text-overlay",
+    "quick-cuts",
+    "illustration"
+   ],
+   "thumb": "thumbs/ig_DShlHnTEcmx.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DShlHnTEcmx/",
+   "creator": "lil.foodie__"
+  },
+  {
+   "id": "77e0283afc",
+   "path": "https://www.instagram.com/reel/DLRgYUZsEqg/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Giant product on location CGI",
+   "description": "A crane lowers a massive croissant onto a giant coffee cup over a building site to announce a new branch. Shops can use fake out-of-home CGI for a store opening.",
+   "categories": [
+    "product",
+    "food",
+    "reveal"
+   ],
+   "tags": [
+    "cgi",
+    "out-of-home",
+    "drone",
+    "announcement",
+    "scale"
+   ],
+   "thumb": "thumbs/ig_DLRgYUZsEqg.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DLRgYUZsEqg/",
+   "creator": "pantry_jhb"
+  },
+  {
+   "id": "27cd4dc04f",
+   "path": "https://www.instagram.com/reel/DHeqRNWRh77/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Pantry makeover reveal",
+   "description": "A cluttered pantry gets fully organised with labelled jars and baskets. Storage, home and grocery brands can show the satisfying end state.",
+   "categories": [
+    "reveal",
+    "lifestyle",
+    "product"
+   ],
+   "tags": [
+    "before-after",
+    "organisation",
+    "timelapse",
+    "asmr"
+   ],
+   "thumb": "thumbs/ig_DHeqRNWRh77.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DHeqRNWRh77/",
+   "creator": "little_label_co"
+  },
+  {
+   "id": "e1ffbb27ce",
+   "path": "https://www.instagram.com/reel/DGgnVJbSmv7/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Organise with me pantry",
+   "description": "A cluttered pantry gets sorted into clear labelled containers, ending on the tidy result. Home or grocery brands can use 'organise with me' to show their products in a real space.",
+   "categories": [
+    "habits",
+    "lifestyle",
+    "asmr"
+   ],
+   "tags": [
+    "organise-with-me",
+    "before-after",
+    "asmr",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DGgnVJbSmv7.jpg",
+   "w": 359,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/DGgnVJbSmv7/",
+   "creator": "natalia.be.be"
+  },
+  {
+   "id": "55d9e10289",
+   "path": "https://www.instagram.com/reel/Cro96roJdlX/",
+   "type": "video",
+   "collection": "Instagram saves",
+   "title": "Film director style day in the life",
+   "description": "A day in the life shot with pastel colours, centred framing and props in the style of a famous film director. Brands can pick a recognisable film style and shoot their own routine in it.",
+   "categories": [
+    "aesthetic",
+    "lifestyle",
+    "trends"
+   ],
+   "tags": [
+    "symmetry",
+    "pastel",
+    "day-in-the-life",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_Cro96roJdlX.jpg",
+   "w": 359,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/reel/Cro96roJdlX/",
+   "creator": "cinemonika"
+  },
+  {
+   "id": "3a0b7439d7",
+   "path": "https://www.instagram.com/p/DdqultMjTvh/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Tiny food on a giant table",
+   "description": "Carousel opens on a wide shot of an oversized table with the dishes as tiny specks, then swipes in closer to reveal each item. Easy curiosity hook for any menu or product drop.",
+   "categories": [
+    "food",
+    "hooks",
+    "reveal"
+   ],
+   "tags": [
+    "carousel",
+    "swipe-reveal",
+    "scale-play",
+    "text-overlay",
+    "flat-lay"
+   ],
+   "thumb": "thumbs/ig_DdqultMjTvh.jpg",
+   "w": 512,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DdqultMjTvh/",
+   "creator": "noff_coffee_"
+  },
+  {
+   "id": "5c8707582c",
+   "path": "https://www.instagram.com/p/Dd9Q9XtCN-1/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "When life gives you butter",
+   "description": "Opens on a macro shot of a single ingredient with a play on a familiar saying, then builds to the product. Bakeries and food brands can tease a new lineup by leading with their hero ingredient.",
+   "categories": [
+    "food",
+    "typography",
+    "aesthetic"
+   ],
+   "tags": [
+    "macro",
+    "text-overlay",
+    "ingredient-focus",
+    "teaser",
+    "carousel"
+   ],
+   "thumb": "thumbs/ig_Dd9Q9XtCN-1.jpg",
+   "w": 520,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/Dd9Q9XtCN-1/",
+   "creator": "from.ammarah"
+  },
+  {
+   "id": "341f899756",
+   "path": "https://www.instagram.com/p/Dd6M2dpk-zD/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Ingredient to dish swipe",
+   "description": "Carousel opens on a tight macro of a pancake stack with a half sentence, then swipes through ingredients to finished plates. A cafe can tease a punchline on slide one so people swipe for the payoff.",
+   "categories": [
+    "food",
+    "hooks",
+    "product"
+   ],
+   "tags": [
+    "carousel",
+    "macro",
+    "text-overlay",
+    "swipe-hook",
+    "food-styling"
+   ],
+   "thumb": "thumbs/ig_Dd6M2dpk-zD.jpg",
+   "w": 512,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/Dd6M2dpk-zD/",
+   "creator": "halfcupuae_"
+  },
+  {
+   "id": "cffed3ccad",
+   "path": "https://www.instagram.com/p/DboqIUBEVRQ/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Edible type sculpture",
+   "description": "AI generated images spell words out in bread rolls and other foods, shared with a reusable prompt format. Food brands can spell a campaign line in their own product for a playful still.",
+   "categories": [
+    "typography",
+    "food",
+    "illustration"
+   ],
+   "tags": [
+    "ai-generated",
+    "food-type",
+    "carousel",
+    "prompt"
+   ],
+   "thumb": "thumbs/ig_DboqIUBEVRQ.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DboqIUBEVRQ/",
+   "creator": "googleflow"
+  },
+  {
+   "id": "a0213881eb",
+   "path": "https://www.instagram.com/p/DbeBUm2gT8O/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Monthly art roundup",
+   "description": "Carousel of artworks the account liked that month, credited to each artist. Brands could run a monthly roundup of fan art or creator work.",
+   "categories": [
+    "illustration",
+    "culture"
+   ],
+   "tags": [
+    "carousel",
+    "roundup",
+    "curation",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/ig_DbeBUm2gT8O.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DbeBUm2gT8O/",
+   "creator": "contemporary100"
+  },
+  {
+   "id": "286df86e93",
+   "path": "https://www.instagram.com/p/DbVaSPJEoAe/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Split frame pour process",
+   "description": "Carousel pairs a wide shot of a glass of ice with a tight macro of liquid hitting it. Cafes can show a menu change through close, moody process shots.",
+   "categories": [
+    "food",
+    "aesthetic",
+    "product"
+   ],
+   "tags": [
+    "split-screen",
+    "macro",
+    "pour-shot",
+    "carousel",
+    "moody"
+   ],
+   "thumb": "thumbs/ig_DbVaSPJEoAe.jpg",
+   "w": 640,
+   "h": 480,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DbVaSPJEoAe/",
+   "creator": "hustle.kafe"
+  },
+  {
+   "id": "5fc2cdfad7",
+   "path": "https://www.instagram.com/p/DbV8iNyjuN5/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "When life gives you tuna",
+   "description": "A macro close-up of the hero ingredient with a short line, before unpacking each part of a dish across slides. Restaurants can explain why every ingredient earns its spot.",
+   "categories": [
+    "food",
+    "typography",
+    "aesthetic"
+   ],
+   "tags": [
+    "macro",
+    "text-overlay",
+    "ingredient-focus",
+    "carousel"
+   ],
+   "thumb": "thumbs/ig_DbV8iNyjuN5.jpg",
+   "w": 512,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DbV8iNyjuN5/",
+   "creator": "bbistromiami"
+  },
+  {
+   "id": "f6e53b41d3",
+   "path": "https://www.instagram.com/p/DbJMZdGGsy0/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "BTS vs final frame",
+   "description": "Carousel stacks the behind-the-scenes setup above the polished shot it produced. Brands can show the work behind a campaign to make it feel crafted.",
+   "categories": [
+    "reveal",
+    "aesthetic"
+   ],
+   "tags": [
+    "behind-the-scenes",
+    "before-after",
+    "carousel",
+    "production"
+   ],
+   "thumb": "thumbs/ig_DbJMZdGGsy0.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DbJMZdGGsy0/",
+   "creator": "jillianwheeler"
+  },
+  {
+   "id": "42a4fb8124",
+   "path": "https://www.instagram.com/p/Db3I2ySDQ2L/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "New find in store",
+   "description": "Hand-held shot of a new product in front of the store's shopping bag, with the details in the carousel. Simple UGC-style format for retail new arrivals.",
+   "categories": [
+    "product",
+    "ugc"
+   ],
+   "tags": [
+    "hand-held-product",
+    "new-in",
+    "carousel",
+    "retail"
+   ],
+   "thumb": "thumbs/ig_Db3I2ySDQ2L.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/Db3I2ySDQ2L/",
+   "creator": "misas_mesa"
+  },
+  {
+   "id": "fec44740c3",
+   "path": "https://www.instagram.com/p/DaUX7tUoIPf/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Reaching for the freebie",
+   "description": "A creator lunges at the camera holding drinks, framed for a dramatic wide angle. Food and drink brands can push a gift-with-purchase through a playful influencer post.",
+   "categories": [
+    "ugc",
+    "product",
+    "deals"
+   ],
+   "tags": [
+    "wide-angle",
+    "influencer",
+    "carousel",
+    "perspective"
+   ],
+   "thumb": "thumbs/ig_DaUX7tUoIPf.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DaUX7tUoIPf/",
+   "creator": "nuwairahlutfi"
+  },
+  {
+   "id": "f46c274231",
+   "path": "https://www.instagram.com/p/DaAjMgdElcs/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Ingredient callout breakdown",
+   "description": "A finished dish with each ingredient called out in boxes around it. Suppliers and restaurants can show exactly what goes into a product.",
+   "categories": [
+    "food",
+    "product",
+    "typography"
+   ],
+   "tags": [
+    "callouts",
+    "annotated",
+    "carousel",
+    "ingredient-focus"
+   ],
+   "thumb": "thumbs/ig_DaAjMgdElcs.jpg",
+   "w": 512,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DaAjMgdElcs/",
+   "creator": "chefmiddleeastofficial"
+  },
+  {
+   "id": "f61204d575",
+   "path": "https://www.instagram.com/p/DZyTDIilm5F/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Internet community roundup",
+   "description": "A carousel shares a funny Reddit community about men's living spaces with a bold headline over a photo. Brands can curate an internet subculture that fits their category into a news-style carousel.",
+   "categories": [
+    "news",
+    "humour"
+   ],
+   "tags": [
+    "carousel",
+    "headline",
+    "reddit",
+    "curation"
+   ],
+   "thumb": "thumbs/ig_DZyTDIilm5F.jpg",
+   "w": 512,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DZyTDIilm5F/",
+   "creator": "greatestreactions"
+  },
+  {
+   "id": "6892d24736",
+   "path": "https://www.instagram.com/p/DZrRczFE_Xw/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Pick an emoji path",
+   "description": "Viewers pick an emoji and follow its line across swipes to find their product match. Retailers can turn a range into a choose-your-own game.",
+   "categories": [
+    "interactive",
+    "engagement",
+    "product"
+   ],
+   "tags": [
+    "carousel",
+    "emoji",
+    "game",
+    "swipe"
+   ],
+   "thumb": "thumbs/ig_DZrRczFE_Xw.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DZrRczFE_Xw/",
+   "creator": "itisyourss"
+  },
+  {
+   "id": "be08c8ac4d",
+   "path": "https://www.instagram.com/p/DZ-LWlADLeO/",
+   "type": "carousel",
+   "collection": "Instagram saves",
+   "title": "Window into the sea edit",
+   "description": "Home interior photo is edited so a wall opens up onto sparkling water. Whimsical edit idea for lifestyle or interiors accounts.",
+   "categories": [
+    "aesthetic",
+    "lifestyle"
+   ],
+   "tags": [
+    "photo-edit",
+    "whimsical",
+    "interiors",
+    "carousel"
+   ],
+   "thumb": "thumbs/ig_DZ-LWlADLeO.jpg",
+   "w": 480,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [],
+   "bytes": 0,
+   "link": "https://www.instagram.com/p/DZ-LWlADLeO/",
+   "creator": "fischgraet.fluegeltuer"
+  },
   {
    "id": "805b9dbc7f",
    "path": "Always on/Reels/Trends/ReactNativeBlobUtilTmp_izp12oto0dee0yitrhkidv.MP4",
@@ -311,6 +5256,93 @@
    ],
    "bytes": 2632605,
    "duration": 25.1
+  },
+  {
+   "id": "d980b1d626",
+   "path": "Always on/Reels/Aesthetic/MAKE IT COLD BREW.A little reminder- your favorite coffee can be enjoyed with a Cold Brew base.S.mp4",
+   "type": "video",
+   "collection": "Always on",
+   "title": "Cold brew pour macro",
+   "description": "Slow, moody pours over ice shot as macro close-ups and a split-frame. Good template for any drink launch that wants a premium feel.",
+   "categories": [
+    "food",
+    "aesthetic",
+    "product"
+   ],
+   "tags": [
+    "macro",
+    "pour-shot",
+    "slow-motion",
+    "split-screen",
+    "cinematic"
+   ],
+   "thumb": "thumbs/d980b1d626.jpg",
+   "w": 640,
+   "h": 480,
+   "added": "2026-10-15",
+   "media": [
+    "Always on/Reels/Aesthetic/MAKE IT COLD BREW.A little reminder- your favorite coffee can be enjoyed with a Cold Brew base.S.mp4"
+   ],
+   "bytes": 1363439,
+   "duration": 13.1
+  },
+  {
+   "id": "49ef8a5b8f",
+   "path": "Always on/Reels/ASMR/v1c044g50000d6acscfog65m9cgcubfg.mp4",
+   "type": "video",
+   "collection": "Always on",
+   "title": "Craving fix fruit bowl",
+   "description": "Hands-only build of a fruit salad from a single bowl, with crunchy chopping and tossing sounds doing the work. Works for quick healthy recipes or 'what I eat' content.",
+   "categories": [
+    "asmr",
+    "food",
+    "habits"
+   ],
+   "tags": [
+    "asmr",
+    "top-down",
+    "recipe",
+    "hands-only",
+    "text-overlay"
+   ],
+   "thumb": "thumbs/49ef8a5b8f.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [
+    "Always on/Reels/ASMR/v1c044g50000d6acscfog65m9cgcubfg.mp4"
+   ],
+   "bytes": 4938776,
+   "duration": 29.8
+  },
+  {
+   "id": "e34ae97eea",
+   "path": "Always on/Reels/ASMR/ssstik.io_@askinem_1792065438607.mp4",
+   "type": "video",
+   "collection": "Always on",
+   "title": "Fruit platter fill-up",
+   "description": "Top-down ASMR of a sectioned serving tray being unboxed and filled one fruit at a time, ending with the dip. Satisfying format for any product that gets filled, stocked or styled.",
+   "categories": [
+    "asmr",
+    "food",
+    "product"
+   ],
+   "tags": [
+    "asmr",
+    "top-down",
+    "unboxing",
+    "satisfying",
+    "hands-only"
+   ],
+   "thumb": "thumbs/e34ae97eea.jpg",
+   "w": 360,
+   "h": 640,
+   "added": "2026-10-15",
+   "media": [
+    "Always on/Reels/ASMR/ssstik.io_@askinem_1792065438607.mp4"
+   ],
+   "bytes": 5753815,
+   "duration": 35.2
   },
   {
    "id": "4f31dc0fb9",

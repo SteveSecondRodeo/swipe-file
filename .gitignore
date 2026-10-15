@@ -3,3 +3,4 @@
 .sheets/
 .pr-body.md
 __pycache__/
+.ig_captions.json

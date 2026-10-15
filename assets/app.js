@@ -31,6 +31,8 @@ const icons = {
   stack: '<svg viewBox="0 0 24 24"><rect x="3" y="6" width="13" height="14" rx="2"/><path d="M8 3h11a2 2 0 0 1 2 2v11"/></svg>',
   image: '<svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/></svg>',
   download: '<svg viewBox="0 0 24 24"><path d="M12 4v12M6 11l6 6 6-6M5 20h14"/></svg>',
+  ig: '<svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8" fill="currentColor"/></svg>',
+  external: '<svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
   link: '<svg viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>',
   prev: '<svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg>',
   next: '<svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg>',
@@ -75,7 +77,7 @@ function writeHash(replace = true) {
 /* ---------- Filtering ---------- */
 function matchesQuery(it, q) {
   if (!q) return true;
-  const hay = [it.title, it.description, it.collection, ...it.tags, ...it.categories.map((c) => catNames[c] || c)]
+  const hay = [it.title, it.description, it.collection, it.creator ? "@" + it.creator : "", it.link ? "instagram" : "", ...it.tags, ...it.categories.map((c) => catNames[c] || c)]
     .join(" ").toLowerCase();
   return q.toLowerCase().split(/\s+/).every((w) => hay.includes(w.replace(/^#/, "")));
 }
@@ -123,14 +125,17 @@ function render() {
 function cardHtml(it, i) {
   const ratio = it.w && it.h ? `${it.w} / ${it.h}` : "4 / 5";
   let badge = "";
-  if (it.type === "video") badge = `<span class="badge">${icons.play}${fmtDuration(it.duration) || "Video"}</span>`;
+  if (it.link) badge = `<span class="badge">${icons.ig}${it.type === "carousel" ? "Carousel" : "Reel"}</span>`;
+  else if (it.type === "video") badge = `<span class="badge">${icons.play}${fmtDuration(it.duration) || "Video"}</span>`;
   else if (it.type === "carousel") badge = `<span class="badge">${icons.stack}${it.media.length}</span>`;
   const cats = it.categories.slice(0, 3).map((c) => catNames[c] || c).join(" · ");
   return `<article class="card" tabindex="0" data-id="${it.id}" style="animation-delay:${Math.min(i, 20) * 18}ms">
     <div class="card-media" style="aspect-ratio:${ratio}">
       ${it.thumb ? `<img src="${localUrl(it.thumb)}" alt="" loading="lazy" decoding="async">` : ""}
       ${badge}${isNew(it) ? '<span class="badge new">New</span>' : ""}
-      <button class="card-dl" data-dl="${it.id}" aria-label="Download ${esc(it.title)}" title="Download">${icons.download}</button>
+      ${it.link
+        ? `<a class="card-dl" href="${esc(it.link)}" target="_blank" rel="noopener" aria-label="Watch ${esc(it.title)} on Instagram" title="Watch on Instagram">${icons.external}</a>`
+        : `<button class="card-dl" data-dl="${it.id}" aria-label="Download ${esc(it.title)}" title="Download">${icons.download}</button>`}
     </div>
     <div class="card-body"><h3 class="card-title">${esc(it.title)}</h3><p class="card-cats">${esc(cats)}</p></div>
   </article>`;
@@ -176,13 +181,20 @@ function openItem(id, push = true) {
   $("#v-tags").parentElement.hidden = !it.tags.length;
 
   const meta = [];
+  if (it.link) {
+    meta.push(["Creator", "@" + it.creator], ["Source", "Instagram"], ["Saved", fmtDate(it.added)]);
+  } else {
   if (it.type === "video" && it.duration) meta.push(["Length", fmtDuration(it.duration)]);
   if (it.type === "carousel") meta.push(["Slides", it.media.length]);
   meta.push(["Size", fmtBytes(it.bytes)], ["Added", fmtDate(it.added)], ["File", fileName(it.path)]);
+  }
   $("#v-meta").innerHTML = meta.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("");
 
   const multi = it.media.length > 1;
-  $("#v-actions").innerHTML = multi
+  $("#v-actions").innerHTML = it.link
+    ? `<a class="btn accent" href="${esc(it.link)}" target="_blank" rel="noopener">${icons.ig}Watch on Instagram</a>
+       <button class="btn ghost" data-action="copy">${icons.link}Copy link</button>`
+    : multi
     ? `<button class="btn accent" data-action="zip">${icons.download}Download all (${it.media.length})</button>
        <button class="btn ghost" data-action="slide">${icons.download}This slide</button>
        <button class="btn ghost" data-action="copy">${icons.link}Copy link</button>`
@@ -203,6 +215,14 @@ function mediaEl(path, active) {
 }
 
 function renderMedia(it) {
+  if (it.link) {
+    els.vMedia.innerHTML = `<a class="ig-cover" href="${esc(it.link)}" target="_blank" rel="noopener" aria-label="Watch on Instagram">
+        <img src="${localUrl(it.thumb)}" alt="">
+        <span class="ig-play">${it.type === "carousel" ? icons.stack : icons.play}</span>
+        <span class="ig-note">${icons.ig}Plays on Instagram</span>
+      </a>`;
+    return;
+  }
   if (it.media.length === 1) {
     els.vMedia.innerHTML = mediaEl(it.media[0], true);
     return;

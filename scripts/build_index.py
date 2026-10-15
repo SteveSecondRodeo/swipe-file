@@ -272,6 +272,38 @@ def build():
                                "slides": item["media"] if kind == "carousel" else None})
         items.append(item)
 
+    # Linked ideas from Instagram saves: thumbnail + link, no hosted media.
+    for post in load_json(DATA / "instagram.json", []):
+        if post.get("skip"):
+            continue
+        rel = post["url"]
+        thumb = ROOT / post["thumb"]
+        w, h = image_size(thumb) if thumb.exists() else (None, None)
+        label = labels.get(rel, {})
+        item = {
+            "id": item_id(rel),
+            "path": rel,
+            "type": post["type"],
+            "collection": "Instagram saves",
+            "title": label.get("title") or f"Saved from @{post['creator']}",
+            "description": label.get("description", ""),
+            "categories": label.get("categories", []),
+            "tags": label.get("tags", []),
+            "thumb": post["thumb"] if thumb.exists() else None,
+            "w": w,
+            "h": h,
+            "added": label.get("added") or post["saved"],
+            "media": [],
+            "bytes": 0,
+            "link": rel,
+            "creator": post["creator"],
+        }
+        if not label:
+            item["unlabelled"] = True
+            unlabelled.append({"path": rel, "type": post["type"], "thumb": item["thumb"],
+                               "folder_categories": [], "slides": None, "link": rel})
+        items.append(item)
+
     items.sort(key=lambda i: (i["added"], i["path"]), reverse=True)
 
     known = {c["id"]: c for c in category_map.get("categories", [])}
@@ -297,7 +329,7 @@ def build():
     (DATA / "unlabelled.json").write_text(json.dumps(unlabelled, indent=1, ensure_ascii=False))
 
     # Remove thumbnails for items that no longer exist.
-    live = {f"{i['id']}.jpg" for i in items}
+    live = {Path(i["thumb"]).name for i in items if i["thumb"]}
     thumb_sources = {k: v for k, v in thumb_sources.items() if f"{k}.jpg" in live}
     (THUMBS / "sources.json").write_text(json.dumps(thumb_sources, indent=1, sort_keys=True))
     for t in THUMBS.glob("*.jpg"):

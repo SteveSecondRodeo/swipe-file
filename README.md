@@ -19,6 +19,16 @@ Always on/
 - **New collections:** any new top-level folder (e.g. `Campaigns/`) with `Reels`, `Static` or `Carousel` inside becomes its own collection.
 - Keep single files under 95MB (GitHub's limit). The build warns you if one is too big.
 
+## Instagram saves (linked ideas)
+
+Posts from the saved collection `second-rodeo-sm-ideas` appear as linked ideas: a thumbnail, labels and a "Watch on Instagram" button. The videos are never downloaded or hosted.
+
+1. In Chrome (logged in), open the collection and run `scripts/instagram_export.js` in the page. It downloads `swipefile-instagram-export.json`.
+2. `python3 scripts/import_instagram.py ~/Downloads/swipefile-instagram-export.json` saves thumbnails and adds new posts to `data/instagram.json`.
+3. Label the new posts, then rebuild. To hide a post, set `"skip": true` on it in `data/instagram.json`.
+
+Captions are kept in `.ig_captions.json` (not committed) to help labelling and are never published.
+
 ## Labels
 
 Every idea has a title, description, categories and technique tags in `data/labels.json`, keyed by file or folder path. Edit it by hand any time. If you rename or move a file, move its label key too, otherwise it is treated as new and relabelled.
