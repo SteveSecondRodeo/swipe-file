@@ -272,12 +272,16 @@ def build():
                    "count": counts.get(cid, 0)}
                   for cid in list(known) + sorted(c for c in counts if c not in known)]
 
+    previous = load_json(DATA / "library.json", {})
     library = {
-        "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "generated": previous.get("generated"),
         "categories": categories,
         "collections": sorted({i["collection"] for i in items}),
         "items": items,
     }
+    # Only move the timestamp when content changed, so unchanged weeks produce no diff.
+    if {k: v for k, v in previous.items() if k != "generated"} != {k: v for k, v in library.items() if k != "generated"}:
+        library["generated"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     (DATA / "library.json").write_text(json.dumps(library, indent=1, ensure_ascii=False))
     (DATA / "unlabelled.json").write_text(json.dumps(unlabelled, indent=1, ensure_ascii=False))
 
