@@ -5,6 +5,7 @@
 #   (label everything in data/unlabelled.json into data/labels.json)
 #   scripts/weekly_sync.sh publish   # rebuild, commit, push, open a pull request
 set -euo pipefail
+export PATH="$HOME/.local/bin:$PATH"
 
 ROOT="${0:A:h:h}"
 cd "$ROOT"
