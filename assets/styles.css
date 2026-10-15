@@ -167,6 +167,12 @@ main { padding: 18px 24px 64px; }
 .ig-note { position: absolute; bottom: 16px; display: inline-flex; align-items: center; gap: 6px; padding: 5px 12px; border-radius: 999px; background: rgba(0, 0, 0, .55); color: #fff; font-size: 12.5px; }
 .ig-note svg { width: 14px; height: 14px; }
 
+.dl-help { flex-basis: 100%; margin-top: 6px; font-size: 13px; color: var(--ink-2); }
+.dl-help summary { cursor: pointer; color: var(--ink-3); font-weight: 500; }
+.dl-help ol { margin: 8px 0 6px; padding-left: 18px; display: grid; gap: 5px; }
+.dl-help p { margin: 0; color: var(--ink-3); }
+.dl-help code { font: 12px ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; overflow-wrap: anywhere; }
+
 /* Carousel inside viewer */
 .slides { position: absolute; inset: 0; overflow: hidden; touch-action: pan-y; }
 .track { display: flex; height: 100%; transition: transform .35s cubic-bezier(.2, .7, .2, 1); }
