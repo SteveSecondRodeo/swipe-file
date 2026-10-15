@@ -32,9 +32,23 @@
         </button>
       </div>
     </div>
+  </header>
+
+  <section class="intro" aria-labelledby="intro-title">
+    <p class="intro-eyebrow">A library of scroll-stoppers</p>
+    <h1 id="intro-title">Ideas worth <em>borrowing.</em></h1>
+    <p class="intro-lede">Reels, statics and carousels that made us stop scrolling, saved in one place. Use it to kick off a brief, unstick a concept or settle a "what if we did something like..." debate. 💡</p>
+    <ol class="intro-steps">
+      <li><span>1</span><p>Pick a format: videos, statics or carousels.</p></li>
+      <li><span>2</span><p>Filter by category, or search a technique like "transition".</p></li>
+      <li><span>3</span><p>Tap anything to play it, swipe it or download it. Stuck? Hit <strong>Inspire me</strong>.</p></li>
+    </ol>
+  </section>
+
+  <div class="filters">
     <nav class="formats" id="formats" aria-label="Format"></nav>
     <nav class="chips" id="chips" aria-label="Category"></nav>
-  </header>
+  </div>
 
   <main>
     <p class="status" id="status"></p>
@@ -44,6 +58,46 @@
       <button class="btn" id="reset">Clear filters</button>
     </div>
   </main>
+
+  <footer class="site-footer">
+    <div class="footer-row">
+      <p>Swipe File is a personal reference library by Steven Hogg. It's here purely for inspiration. Nothing on it is for sale, and all work belongs to its original creators.</p>
+      <a class="footer-link" href="#terms" id="terms-link">Terms of use</a>
+    </div>
+    <details class="terms" id="terms">
+      <summary>Terms of use</summary>
+      <div class="terms-body">
+        <p class="terms-date">Last updated 15 October 2026</p>
+
+        <h3>1. What this is</h3>
+        <p>Swipe File is a personal, non-commercial reference library run by Steven Hogg ("I", "me"). It collects examples of social media content purely for inspiration, research and education. By using the site you agree to these terms.</p>
+
+        <h3>2. No money involved</h3>
+        <p>There are no ads, paid memberships, sponsorships or affiliate links. Nothing here is sold, licensed or used to make money, and I don't earn anything from the content being on the site.</p>
+
+        <h3>3. Who owns what</h3>
+        <p>Every video, image and carousel belongs to its original creator or brand. Featuring it here doesn't mean I own it, and doesn't imply any endorsement by, or affiliation with, the people or brands involved. All logos and trademarks belong to their owners.</p>
+
+        <h3>4. How you can use it</h3>
+        <p>Browse, study and get inspired. Downloads are for private reference only. Please don't repost, republish, edit, sell or use any of the work commercially, or pass it off as your own. If you want to use something beyond reference, get permission from whoever owns it. Borrow the idea, make your own version.</p>
+
+        <h3>5. Titles and descriptions</h3>
+        <p>The titles, descriptions and tags are my own take on each idea. They may not reflect what the creator intended and aren't statements of fact about any person or brand.</p>
+
+        <h3>6. Removal requests</h3>
+        <p>If you own something on this site and want it removed or credited differently, email <a href="mailto:steven@secondrodeo.co.za?subject=Swipe%20File%20removal%20request">steven@secondrodeo.co.za</a> with a link to the item and a short note showing it's yours. I'll remove it promptly, no fuss. Take-down notices are handled in good faith, in line with South Africa's Electronic Communications and Transactions Act, 2002.</p>
+
+        <h3>7. No guarantees</h3>
+        <p>The site is provided "as is". I don't promise it will always be available, accurate or error-free. To the extent the law allows, I'm not liable for any loss or damage from using the site or anything downloaded from it.</p>
+
+        <h3>8. Privacy</h3>
+        <p>There are no accounts, forms, analytics or tracking cookies, and I don't collect personal information. The site is hosted on GitHub Pages and loads fonts from Google Fonts and a download tool from cdnjs. Those services may log technical details like your IP address under their own privacy policies.</p>
+
+        <h3>9. Changes and governing law</h3>
+        <p>These terms may change as the site does, and the date above shows the latest version. They're governed by the laws of the Republic of South Africa.</p>
+      </div>
+    </details>
+  </footer>
 
   <div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="v-title">
     <div class="viewer-backdrop" data-close></div>

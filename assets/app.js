@@ -353,6 +353,12 @@ function bind() {
       navigator.clipboard.writeText(location.href).then(() => toast("Link copied"), () => toast("Couldn't copy link"));
     }
   });
+  $("#terms-link").addEventListener("click", (e) => {
+    e.preventDefault();
+    const terms = $("#terms");
+    terms.open = true;
+    terms.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
   $("#v-prev").addEventListener("click", () => stepItem(-1));
   $("#v-next").addEventListener("click", () => stepItem(1));
 
