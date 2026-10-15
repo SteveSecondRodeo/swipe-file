@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Swipe File</title>
+  <meta name="description" content="Social media content ideas: videos, statics and carousels to play, browse and download.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23ff5a36'/><path d='M9 11h14M9 16h10M9 21h12' stroke='white' stroke-width='3' stroke-linecap='round'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <a class="brand" href="#" aria-label="Swipe File home"><span class="brand-mark"></span><span class="brand-name">Swipe <em>File</em></span></a>
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search ideas, tags, techniques" autocomplete="off">
+        <kbd>/</kbd>
+      </label>
+      <div class="top-actions">
+        <select id="sort" aria-label="Sort">
+          <option value="new">Newest</option>
+          <option value="az">A to Z</option>
+          <option value="shuffle">Shuffle</option>
+        </select>
+        <button id="shuffle" class="btn ghost" title="Show me something random">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg><span>Inspire me</span>
+        </button>
+      </div>
+    </div>
+    <nav class="formats" id="formats" aria-label="Format"></nav>
+    <nav class="chips" id="chips" aria-label="Category"></nav>
+  </header>
+
+  <main>
+    <p class="status" id="status"></p>
+    <section class="grid" id="grid" aria-live="polite"></section>
+    <div class="empty" id="empty" hidden>
+      <p>Nothing matches that yet.</p>
+      <button class="btn" id="reset">Clear filters</button>
+    </div>
+  </main>
+
+  <div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="v-title">
+    <div class="viewer-backdrop" data-close></div>
+    <button class="v-nav v-prev" id="v-prev" aria-label="Previous idea"><svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg></button>
+    <button class="v-nav v-next" id="v-next" aria-label="Next idea"><svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></button>
+    <div class="viewer-panel">
+      <div class="v-media" id="v-media"></div>
+      <aside class="v-info">
+        <button class="v-close" data-close aria-label="Close"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+        <span class="v-format" id="v-format"></span>
+        <h2 id="v-title"></h2>
+        <p class="v-desc" id="v-desc"></p>
+        <div class="v-group"><h3>Categories</h3><div class="v-cats" id="v-cats"></div></div>
+        <div class="v-group"><h3>Techniques</h3><div class="v-tags" id="v-tags"></div></div>
+        <dl class="v-meta" id="v-meta"></dl>
+        <div class="v-actions" id="v-actions"></div>
+        <p class="v-hint">Use <kbd>↑</kbd><kbd>↓</kbd> to move between ideas, <kbd>←</kbd><kbd>→</kbd> for slides, <kbd>Esc</kbd> to close.</p>
+      </aside>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
