@@ -353,6 +353,7 @@ function bind() {
       navigator.clipboard.writeText(location.href).then(() => toast("Link copied"), () => toast("Couldn't copy link"));
     }
   });
+  $("#intro-inspire").addEventListener("click", () => $("#shuffle").click());
   $("#terms-link").addEventListener("click", (e) => {
     e.preventDefault();
     const terms = $("#terms");
@@ -395,8 +396,20 @@ async function init() {
   }
   catNames = Object.fromEntries(library.categories.map((c) => [c.id, c.name]));
   newestDate = Math.max(...library.items.map((it) => new Date(it.added)));
+  renderFan();
   render();
   if (state.item) openItem(state.item, false);
+}
+
+/* A fanned hand of random thumbnails in the intro. */
+function renderFan() {
+  const pool = library.items.filter((it) => it.thumb).sort(() => Math.random() - 0.5).slice(0, 7);
+  const mid = (pool.length - 1) / 2;
+  $("#intro-fan").innerHTML = pool.map((it, i) => {
+    const off = i - mid;
+    return `<img src="${localUrl(it.thumb)}" alt="" data-id="${it.id}" style="--r:${off * 6}deg;--y:${Math.abs(off) * 7}px;--d:${i * 60}ms;z-index:${10 - Math.abs(Math.round(off))}">`;
+  }).join("");
+  $("#intro-fan").onclick = (e) => e.target.dataset.id && openItem(e.target.dataset.id);
 }
 
 init();

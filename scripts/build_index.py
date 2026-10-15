@@ -217,7 +217,18 @@ def scan():
     return found, warnings, category_map
 
 
+def stamp_assets():
+    """Add a content hash to CSS/JS links in index.html so browsers never serve stale files."""
+    page = ROOT / "index.html"
+    html = page.read_text()
+    for asset in ("assets/styles.css", "assets/app.js"):
+        digest = hashlib.md5((ROOT / asset).read_bytes()).hexdigest()[:8]
+        html = re.sub(re.escape(asset) + r"(\?v=\w+)?", f"{asset}?v={digest}", html)
+    page.write_text(html)
+
+
 def build():
+    stamp_assets()
     DATA.mkdir(exist_ok=True)
     labels = load_json(DATA / "labels.json", {})
     found, warnings, category_map = scan()
