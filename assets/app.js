@@ -193,7 +193,15 @@ function openItem(id, push = true) {
   const multi = it.media.length > 1;
   $("#v-actions").innerHTML = it.link
     ? `<a class="btn accent" href="${esc(it.link)}" target="_blank" rel="noopener">${icons.ig}Watch on Instagram</a>
-       <button class="btn ghost" data-action="copy">${icons.link}Copy link</button>`
+       <button class="btn ghost" data-action="fastdl">${icons.download}Download</button>
+       <button class="btn ghost" data-action="copy">${icons.link}Copy link</button>
+       <details class="dl-help">
+         <summary>How downloading works</summary>
+         <p><strong>Download</strong> copies the post link and opens FastDL in a new tab. Paste the link there (Cmd+V) and download the video, image or carousel slides. FastDL is a free outside site, so expect ads.</p>
+         <p>Backup if FastDL is down: install gallery-dl once with <code>python3 -m pip install --user gallery-dl</code>, stay logged in to Instagram in Chrome, then run this in Terminal. Files save to <code>Downloads/Swipe File</code>.</p>
+         <code class="dl-cmd">${esc(downloadCommand(it))}</code>
+         <p>Keep downloads for private reference only.</p>
+       </details>`
     : multi
     ? `<button class="btn accent" data-action="zip">${icons.download}Download all (${it.media.length})</button>
        <button class="btn ghost" data-action="slide">${icons.download}This slide</button>
@@ -286,6 +294,11 @@ function closeViewer() {
 }
 
 /* ---------- Downloads ---------- */
+// Linked Instagram ideas download on the viewer's own Mac via gallery-dl and their Chrome login.
+const FASTDL_URL = "https://fastdl.app/";
+const downloadCommand = (it) =>
+  `python3 -m gallery_dl --cookies-from-browser chrome -D ~/Downloads/"Swipe File" "${it.link}"`;
+
 function downloadFile(path) {
   const a = document.createElement("a");
   a.href = url(path);
@@ -369,6 +382,12 @@ function bind() {
     const it = byId(state.item);
     if (act.dataset.action === "zip") downloadZip(it);
     if (act.dataset.action === "slide") downloadFile(it.media[slideIndex]);
+    if (act.dataset.action === "fastdl") {
+      // Static site can't fetch Instagram media, so hand the post link to FastDL.
+      navigator.clipboard.writeText(it.link)
+        .then(() => toast("Link copied. Paste it into FastDL"), () => toast("Copy the post link, then paste it into FastDL"));
+      window.open(FASTDL_URL, "_blank", "noopener");
+    }
     if (act.dataset.action === "copy") {
       navigator.clipboard.writeText(location.href).then(() => toast("Link copied"), () => toast("Couldn't copy link"));
     }
